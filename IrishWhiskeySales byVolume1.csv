@@ -1,0 +1,4132 @@
+Country,Year,Cases
+United States,1990,243000
+United States,1991,214000
+United States,1992,219500
+United States,1993,225000
+United States,1994,239500
+United States,1995,249000
+United States,1996,259000
+United States,1997,279500
+United States,1998,296750
+United States,1999,322000
+United States,2000,343750
+United States,2001,371250
+United States,2002,398750
+United States,2003,443500
+United States,2004,500250
+United States,2005,572500
+United States,2006,682250
+United States,2007,803000
+United States,2008,975500
+United States,2009,1099250
+United States,2010,1337600
+United States,2011,1652250
+United States,2012,1989750
+United States,2013,2365000
+United States,2014,2463750
+United States,2015,2893250
+United States,2016,3337500
+Ireland,1990,537500
+Ireland,1991,546000
+Ireland,1992,513000
+Ireland,1993,524500
+Ireland,1994,526000
+Ireland,1995,517500
+Ireland,1996,536350
+Ireland,1997,545050
+Ireland,1998,546000
+Ireland,1999,583100
+Ireland,2000,586350
+Ireland,2001,584650
+Ireland,2002,564900
+Ireland,2003,475400
+Ireland,2004,472950
+Ireland,2005,471400
+Ireland,2006,470500
+Ireland,2007,473400
+Ireland,2008,448000
+Ireland,2009,404400
+Ireland,2010,404300
+Ireland,2011,426100
+Ireland,2012,484450
+Ireland,2013,468800
+Ireland,2014,413870
+Ireland,2015,434600
+Ireland,2016,444200
+France,1990,92000
+France,1991,118000
+France,1992,137000
+France,1993,151000
+France,1994,161000
+France,1995,181000
+France,1996,225000
+France,1997,255000
+France,1998,289000
+France,1999,327000
+France,2000,340000
+France,2001,393000
+France,2002,399500
+France,2003,398000
+France,2004,398000
+France,2005,379000
+France,2006,379750
+France,2007,370250
+France,2008,370000
+France,2009,353000
+France,2010,380000
+France,2011,376000
+France,2012,365250
+France,2013,364000
+France,2014,364000
+France,2015,358250
+France,2016,345250
+South Africa,1990,7000
+South Africa,1991,6500
+South Africa,1992,7000
+South Africa,1993,8000
+South Africa,1994,9500
+South Africa,1995,11500
+South Africa,1996,20500
+South Africa,1997,24750
+South Africa,1998,26250
+South Africa,1999,29500
+South Africa,2000,30250
+South Africa,2001,34000
+South Africa,2002,36500
+South Africa,2003,40500
+South Africa,2004,62000
+South Africa,2005,87500
+South Africa,2006,131000
+South Africa,2007,168000
+South Africa,2008,195000
+South Africa,2009,200500
+South Africa,2010,208000
+South Africa,2011,209500
+South Africa,2012,211250
+South Africa,2013,229000
+South Africa,2014,243750
+South Africa,2015,278750
+South Africa,2016,308250
+Russia,1990,
+Russia,1991,750
+Russia,1992,1250
+Russia,1993,2750
+Russia,1994,3500
+Russia,1995,5000
+Russia,1996,6000
+Russia,1997,9000
+Russia,1998,8000
+Russia,1999,6000
+Russia,2000,7500
+Russia,2001,10000
+Russia,2002,12000
+Russia,2003,14000
+Russia,2004,21500
+Russia,2005,37800
+Russia,2006,59250
+Russia,2007,97750
+Russia,2008,136750
+Russia,2009,124650
+Russia,2010,171500
+Russia,2011,292600
+Russia,2012,345200
+Russia,2013,367600
+Russia,2014,427500
+Russia,2015,277700
+Russia,2016,280250
+Germany,1990,80000
+Germany,1991,85000
+Germany,1992,98000
+Germany,1993,89000
+Germany,1994,96500
+Germany,1995,84500
+Germany,1996,91750
+Germany,1997,90000
+Germany,1998,92750
+Germany,1999,99500
+Germany,2000,107100
+Germany,2001,112950
+Germany,2002,113200
+Germany,2003,118400
+Germany,2004,137300
+Germany,2005,135650
+Germany,2006,136550
+Germany,2007,146000
+Germany,2008,168000
+Germany,2009,165300
+Germany,2010,182200
+Germany,2011,224500
+Germany,2012,246750
+Germany,2013,277500
+Germany,2014,293500
+Germany,2015,285500
+Germany,2016,279000
+United Kingdom,1990,110000
+United Kingdom,1991,110000
+United Kingdom,1992,115000
+United Kingdom,1993,125000
+United Kingdom,1994,140500
+United Kingdom,1995,151000
+United Kingdom,1996,149800
+United Kingdom,1997,163000
+United Kingdom,1998,174000
+United Kingdom,1999,185400
+United Kingdom,2000,196300
+United Kingdom,2001,209750
+United Kingdom,2002,233300
+United Kingdom,2003,238950
+United Kingdom,2004,245500
+United Kingdom,2005,253750
+United Kingdom,2006,250000
+United Kingdom,2007,256500
+United Kingdom,2008,266000
+United Kingdom,2009,262000
+United Kingdom,2010,276000
+United Kingdom,2011,246500
+United Kingdom,2012,238750
+United Kingdom,2013,245500
+United Kingdom,2014,249250
+United Kingdom,2015,264250
+United Kingdom,2016,274500
+Czech Republic,1990,
+Czech Republic,1991,
+Czech Republic,1992,
+Czech Republic,1993,500
+Czech Republic,1994,1000
+Czech Republic,1995,2250
+Czech Republic,1996,6250
+Czech Republic,1997,11000
+Czech Republic,1998,18250
+Czech Republic,1999,17750
+Czech Republic,2000,24000
+Czech Republic,2001,28950
+Czech Republic,2002,34000
+Czech Republic,2003,38660
+Czech Republic,2004,50720
+Czech Republic,2005,61480
+Czech Republic,2006,79150
+Czech Republic,2007,101950
+Czech Republic,2008,115950
+Czech Republic,2009,136250
+Czech Republic,2010,115000
+Czech Republic,2011,135000
+Czech Republic,2012,135650
+Czech Republic,2013,154000
+Czech Republic,2014,172500
+Czech Republic,2015,182500
+Czech Republic,2016,197500
+Canada,1990,21850
+Canada,1991,22250
+Canada,1992,21000
+Canada,1993,20350
+Canada,1994,21100
+Canada,1995,21250
+Canada,1996,23000
+Canada,1997,21400
+Canada,1998,22100
+Canada,1999,23850
+Canada,2000,25750
+Canada,2001,27500
+Canada,2002,30500
+Canada,2003,32150
+Canada,2004,35000
+Canada,2005,38000
+Canada,2006,40500
+Canada,2007,45100
+Canada,2008,50250
+Canada,2009,57000
+Canada,2010,65750
+Canada,2011,80500
+Canada,2012,108000
+Canada,2013,116000
+Canada,2014,140000
+Canada,2015,162750
+Canada,2016,182000
+Bulgaria,1990,0
+Bulgaria,1991,0
+Bulgaria,1992,250
+Bulgaria,1993,250
+Bulgaria,1994,500
+Bulgaria,1995,500
+Bulgaria,1996,500
+Bulgaria,1997,500
+Bulgaria,1998,2750
+Bulgaria,1999,9000
+Bulgaria,2000,17750
+Bulgaria,2001,24910
+Bulgaria,2002,37150
+Bulgaria,2003,43100
+Bulgaria,2004,48250
+Bulgaria,2005,49950
+Bulgaria,2006,61150
+Bulgaria,2007,89900
+Bulgaria,2008,121700
+Bulgaria,2009,117100
+Bulgaria,2010,131100
+Bulgaria,2011,143100
+Bulgaria,2012,145600
+Bulgaria,2013,149900
+Bulgaria,2014,161000
+Bulgaria,2015,158500
+Bulgaria,2016,169200
+Australia,1990,9000
+Australia,1991,8000
+Australia,1992,9500
+Australia,1993,11500
+Australia,1994,18500
+Australia,1995,24000
+Australia,1996,33750
+Australia,1997,37250
+Australia,1998,42200
+Australia,1999,44000
+Australia,2000,46000
+Australia,2001,47000
+Australia,2002,48500
+Australia,2003,55500
+Australia,2004,59750
+Australia,2005,60750
+Australia,2006,64250
+Australia,2007,63000
+Australia,2008,59500
+Australia,2009,68100
+Australia,2010,72250
+Australia,2011,80750
+Australia,2012,84150
+Australia,2013,91350
+Australia,2014,103350
+Australia,2015,107250
+Australia,2016,114000
+Sweden,1990,13300
+Sweden,1991,14500
+Sweden,1992,17400
+Sweden,1993,22900
+Sweden,1994,27400
+Sweden,1995,31000
+Sweden,1996,34400
+Sweden,1997,34050
+Sweden,1998,39000
+Sweden,1999,44500
+Sweden,2000,49500
+Sweden,2001,51600
+Sweden,2002,51880
+Sweden,2003,54600
+Sweden,2004,47050
+Sweden,2005,46300
+Sweden,2006,50950
+Sweden,2007,59300
+Sweden,2008,65450
+Sweden,2009,80930
+Sweden,2010,84400
+Sweden,2011,87250
+Sweden,2012,97400
+Sweden,2013,97500
+Sweden,2014,95000
+Sweden,2015,97000
+Sweden,2016,100000
+Poland,1990,250
+Poland,1991,0
+Poland,1992,250
+Poland,1993,250
+Poland,1994,800
+Poland,1995,1000
+Poland,1996,1000
+Poland,1997,1250
+Poland,1998,1900
+Poland,1999,3250
+Poland,2000,3750
+Poland,2001,3750
+Poland,2002,3900
+Poland,2003,4700
+Poland,2004,8000
+Poland,2005,10250
+Poland,2006,14000
+Poland,2007,22400
+Poland,2008,27200
+Poland,2009,28100
+Poland,2010,32250
+Poland,2011,37000
+Poland,2012,39550
+Poland,2013,51250
+Poland,2014,67500
+Poland,2015,77900
+Poland,2016,96750
+Portugal,1990,1750
+Portugal,1991,2400
+Portugal,1992,2500
+Portugal,1993,2900
+Portugal,1994,3800
+Portugal,1995,4200
+Portugal,1996,8650
+Portugal,1997,14550
+Portugal,1998,21200
+Portugal,1999,27000
+Portugal,2000,32550
+Portugal,2001,40750
+Portugal,2002,44850
+Portugal,2003,53200
+Portugal,2004,59100
+Portugal,2005,62250
+Portugal,2006,63750
+Portugal,2007,75750
+Portugal,2008,81750
+Portugal,2009,81500
+Portugal,2010,91450
+Portugal,2011,96200
+Portugal,2012,91850
+Portugal,2013,95300
+Portugal,2014,93100
+Portugal,2015,103050
+Portugal,2016,95150
+Slovakia,1990,
+Slovakia,1991,
+Slovakia,1992,
+Slovakia,1993,
+Slovakia,1994,0
+Slovakia,1995,250
+Slovakia,1996,750
+Slovakia,1997,1750
+Slovakia,1998,750
+Slovakia,1999,1600
+Slovakia,2000,1650
+Slovakia,2001,2000
+Slovakia,2002,2650
+Slovakia,2003,3850
+Slovakia,2004,5100
+Slovakia,2005,5250
+Slovakia,2006,5750
+Slovakia,2007,6750
+Slovakia,2008,7500
+Slovakia,2009,10880
+Slovakia,2010,12650
+Slovakia,2011,18550
+Slovakia,2012,27150
+Slovakia,2013,34250
+Slovakia,2014,46150
+Slovakia,2015,61250
+Slovakia,2016,75500
+DF Nordic Countries - (All Countries),1990,19000
+DF Nordic Countries - (All Countries),1991,28000
+DF Nordic Countries - (All Countries),1992,29500
+DF Nordic Countries - (All Countries),1993,31500
+DF Nordic Countries - (All Countries),1994,31750
+DF Nordic Countries - (All Countries),1995,33500
+DF Nordic Countries - (All Countries),1996,34250
+DF Nordic Countries - (All Countries),1997,29000
+DF Nordic Countries - (All Countries),1998,38250
+DF Nordic Countries - (All Countries),1999,40000
+DF Nordic Countries - (All Countries),2000,26350
+DF Nordic Countries - (All Countries),2001,32700
+DF Nordic Countries - (All Countries),2002,28250
+DF Nordic Countries - (All Countries),2003,27500
+DF Nordic Countries - (All Countries),2004,28200
+DF Nordic Countries - (All Countries),2005,29800
+DF Nordic Countries - (All Countries),2006,32850
+DF Nordic Countries - (All Countries),2007,44050
+DF Nordic Countries - (All Countries),2008,56075
+DF Nordic Countries - (All Countries),2009,52250
+DF Nordic Countries - (All Countries),2010,57000
+DF Nordic Countries - (All Countries),2011,70675
+DF Nordic Countries - (All Countries),2012,72475
+DF Nordic Countries - (All Countries),2013,75600
+DF Nordic Countries - (All Countries),2014,76390
+DF Nordic Countries - (All Countries),2015,69750
+DF Nordic Countries - (All Countries),2016,72925
+Denmark,1990,6800
+Denmark,1991,6300
+Denmark,1992,6000
+Denmark,1993,6000
+Denmark,1994,6750
+Denmark,1995,7000
+Denmark,1996,9500
+Denmark,1997,9950
+Denmark,1998,13000
+Denmark,1999,14700
+Denmark,2000,16000
+Denmark,2001,18350
+Denmark,2002,20000
+Denmark,2003,27000
+Denmark,2004,34300
+Denmark,2005,37500
+Denmark,2006,43000
+Denmark,2007,45900
+Denmark,2008,46300
+Denmark,2009,49750
+Denmark,2010,53000
+Denmark,2011,48600
+Denmark,2012,49670
+Denmark,2013,49050
+Denmark,2014,48230
+Denmark,2015,62000
+Denmark,2016,64400
+Netherlands,1990,29000
+Netherlands,1991,31000
+Netherlands,1992,32600
+Netherlands,1993,33100
+Netherlands,1994,32600
+Netherlands,1995,38400
+Netherlands,1996,41500
+Netherlands,1997,45600
+Netherlands,1998,51150
+Netherlands,1999,55150
+Netherlands,2000,60000
+Netherlands,2001,62600
+Netherlands,2002,65500
+Netherlands,2003,60250
+Netherlands,2004,59500
+Netherlands,2005,60000
+Netherlands,2006,60000
+Netherlands,2007,60500
+Netherlands,2008,65750
+Netherlands,2009,63750
+Netherlands,2010,68450
+Netherlands,2011,67700
+Netherlands,2012,69850
+Netherlands,2013,64100
+Netherlands,2014,63000
+Netherlands,2015,60700
+Netherlands,2016,62250
+Latvia,1990,
+Latvia,1991,
+Latvia,1992,0
+Latvia,1993,250
+Latvia,1994,500
+Latvia,1995,750
+Latvia,1996,1250
+Latvia,1997,2500
+Latvia,1998,4000
+Latvia,1999,7250
+Latvia,2000,6750
+Latvia,2001,7000
+Latvia,2002,6330
+Latvia,2003,12450
+Latvia,2004,15850
+Latvia,2005,23750
+Latvia,2006,33600
+Latvia,2007,54250
+Latvia,2008,60250
+Latvia,2009,30450
+Latvia,2010,34400
+Latvia,2011,38900
+Latvia,2012,43940
+Latvia,2013,56000
+Latvia,2014,58420
+Latvia,2015,60170
+Latvia,2016,60750
+Greece,1990,5000
+Greece,1991,6000
+Greece,1992,9000
+Greece,1993,14000
+Greece,1994,17000
+Greece,1995,20000
+Greece,1996,29000
+Greece,1997,34000
+Greece,1998,35500
+Greece,1999,39250
+Greece,2000,43500
+Greece,2001,44250
+Greece,2002,46000
+Greece,2003,45500
+Greece,2004,45750
+Greece,2005,45750
+Greece,2006,45500
+Greece,2007,46250
+Greece,2008,44500
+Greece,2009,43100
+Greece,2010,37250
+Greece,2011,36500
+Greece,2012,38500
+Greece,2013,44250
+Greece,2014,47750
+Greece,2015,51900
+Greece,2016,60500
+DF Russia,1990,
+DF Russia,1991,
+DF Russia,1992,
+DF Russia,1993,
+DF Russia,1994,
+DF Russia,1995,
+DF Russia,1996,
+DF Russia,1997,
+DF Russia,1998,
+DF Russia,1999,
+DF Russia,2000,
+DF Russia,2001,3750
+DF Russia,2002,6250
+DF Russia,2003,8750
+DF Russia,2004,8750
+DF Russia,2005,10525
+DF Russia,2006,11750
+DF Russia,2007,27800
+DF Russia,2008,37925
+DF Russia,2009,45600
+DF Russia,2010,54300
+DF Russia,2011,85525
+DF Russia,2012,103250
+DF Russia,2013,119250
+DF Russia,2014,93825
+DF Russia,2015,60235
+DF Russia,2016,58590
+Ukraine,1990,
+Ukraine,1991,
+Ukraine,1992,
+Ukraine,1993,
+Ukraine,1994,
+Ukraine,1995,0
+Ukraine,1996,0
+Ukraine,1997,250
+Ukraine,1998,200
+Ukraine,1999,150
+Ukraine,2000,0
+Ukraine,2001,250
+Ukraine,2002,250
+Ukraine,2003,500
+Ukraine,2004,3250
+Ukraine,2005,4750
+Ukraine,2006,6750
+Ukraine,2007,14000
+Ukraine,2008,18750
+Ukraine,2009,17550
+Ukraine,2010,22500
+Ukraine,2011,32750
+Ukraine,2012,47800
+Ukraine,2013,53500
+Ukraine,2014,56700
+Ukraine,2015,49200
+Ukraine,2016,54500
+DF British Isles (Inc. Ireland),1990,109000
+DF British Isles (Inc. Ireland),1991,121000
+DF British Isles (Inc. Ireland),1992,123000
+DF British Isles (Inc. Ireland),1993,150500
+DF British Isles (Inc. Ireland),1994,167750
+DF British Isles (Inc. Ireland),1995,194000
+DF British Isles (Inc. Ireland),1996,201000
+DF British Isles (Inc. Ireland),1997,205250
+DF British Isles (Inc. Ireland),1998,214000
+DF British Isles (Inc. Ireland),1999,128250
+DF British Isles (Inc. Ireland),2000,91500
+DF British Isles (Inc. Ireland),2001,93500
+DF British Isles (Inc. Ireland),2002,67000
+DF British Isles (Inc. Ireland),2003,72500
+DF British Isles (Inc. Ireland),2004,78250
+DF British Isles (Inc. Ireland),2005,86500
+DF British Isles (Inc. Ireland),2006,85750
+DF British Isles (Inc. Ireland),2007,76250
+DF British Isles (Inc. Ireland),2008,67000
+DF British Isles (Inc. Ireland),2009,58250
+DF British Isles (Inc. Ireland),2010,57500
+DF British Isles (Inc. Ireland),2011,52600
+DF British Isles (Inc. Ireland),2012,46200
+DF British Isles (Inc. Ireland),2013,50350
+DF British Isles (Inc. Ireland),2014,46010
+DF British Isles (Inc. Ireland),2015,46210
+DF British Isles (Inc. Ireland),2016,48675
+DF Germany,1990,12500
+DF Germany,1991,11000
+DF Germany,1992,11000
+DF Germany,1993,16000
+DF Germany,1994,19750
+DF Germany,1995,21000
+DF Germany,1996,27000
+DF Germany,1997,27500
+DF Germany,1998,23000
+DF Germany,1999,14500
+DF Germany,2000,10250
+DF Germany,2001,18250
+DF Germany,2002,20250
+DF Germany,2003,22000
+DF Germany,2004,23750
+DF Germany,2005,26000
+DF Germany,2006,29000
+DF Germany,2007,32150
+DF Germany,2008,38550
+DF Germany,2009,32250
+DF Germany,2010,39500
+DF Germany,2011,40500
+DF Germany,2012,35295
+DF Germany,2013,39355
+DF Germany,2014,41950
+DF Germany,2015,40150
+DF Germany,2016,45615
+Spain,1990,3000
+Spain,1991,3000
+Spain,1992,4000
+Spain,1993,5000
+Spain,1994,8750
+Spain,1995,9750
+Spain,1996,17250
+Spain,1997,21000
+Spain,1998,28000
+Spain,1999,34250
+Spain,2000,45250
+Spain,2001,65750
+Spain,2002,75500
+Spain,2003,77500
+Spain,2004,80250
+Spain,2005,81500
+Spain,2006,86250
+Spain,2007,78500
+Spain,2008,67500
+Spain,2009,62500
+Spain,2010,58000
+Spain,2011,59250
+Spain,2012,45750
+Spain,2013,44250
+Spain,2014,42250
+Spain,2015,42500
+Spain,2016,42700
+DF US/Canada,1990,22000
+DF US/Canada,1991,20000
+DF US/Canada,1992,18000
+DF US/Canada,1993,10250
+DF US/Canada,1994,8750
+DF US/Canada,1995,8750
+DF US/Canada,1996,10000
+DF US/Canada,1997,10000
+DF US/Canada,1998,11750
+DF US/Canada,1999,13500
+DF US/Canada,2000,15500
+DF US/Canada,2001,13250
+DF US/Canada,2002,16500
+DF US/Canada,2003,18000
+DF US/Canada,2004,18250
+DF US/Canada,2005,18500
+DF US/Canada,2006,19750
+DF US/Canada,2007,24000
+DF US/Canada,2008,30500
+DF US/Canada,2009,19550
+DF US/Canada,2010,30500
+DF US/Canada,2011,41550
+DF US/Canada,2012,47950
+DF US/Canada,2013,40200
+DF US/Canada,2014,52350
+DF US/Canada,2015,30700
+DF US/Canada,2016,42480
+Lithuania,1990,
+Lithuania,1991,
+Lithuania,1992,
+Lithuania,1993,
+Lithuania,1994,
+Lithuania,1995,250
+Lithuania,1996,250
+Lithuania,1997,550
+Lithuania,1998,450
+Lithuania,1999,500
+Lithuania,2000,700
+Lithuania,2001,650
+Lithuania,2002,700
+Lithuania,2003,850
+Lithuania,2004,1150
+Lithuania,2005,2150
+Lithuania,2006,5700
+Lithuania,2007,10450
+Lithuania,2008,9000
+Lithuania,2009,6900
+Lithuania,2010,6850
+Lithuania,2011,11300
+Lithuania,2012,13400
+Lithuania,2013,17500
+Lithuania,2014,23650
+Lithuania,2015,33200
+Lithuania,2016,35800
+Norway,1990,3500
+Norway,1991,3700
+Norway,1992,4000
+Norway,1993,4900
+Norway,1994,5800
+Norway,1995,6500
+Norway,1996,8000
+Norway,1997,9400
+Norway,1998,11100
+Norway,1999,12950
+Norway,2000,14050
+Norway,2001,16600
+Norway,2002,19850
+Norway,2003,21600
+Norway,2004,23650
+Norway,2005,26350
+Norway,2006,26750
+Norway,2007,27850
+Norway,2008,29000
+Norway,2009,31500
+Norway,2010,32600
+Norway,2011,30100
+Norway,2012,30500
+Norway,2013,31250
+Norway,2014,32850
+Norway,2015,32250
+Norway,2016,34750
+Japan,1990,4750
+Japan,1991,5250
+Japan,1992,6250
+Japan,1993,9000
+Japan,1994,10150
+Japan,1995,8800
+Japan,1996,9600
+Japan,1997,8700
+Japan,1998,9900
+Japan,1999,9900
+Japan,2000,9700
+Japan,2001,9350
+Japan,2002,9700
+Japan,2003,9500
+Japan,2004,8500
+Japan,2005,9000
+Japan,2006,10000
+Japan,2007,11000
+Japan,2008,8500
+Japan,2009,9000
+Japan,2010,10750
+Japan,2011,11250
+Japan,2012,17000
+Japan,2013,19000
+Japan,2014,17850
+Japan,2015,27500
+Japan,2016,30150
+New Zealand,1990,3000
+New Zealand,1991,3000
+New Zealand,1992,2000
+New Zealand,1993,2500
+New Zealand,1994,2500
+New Zealand,1995,3000
+New Zealand,1996,3500
+New Zealand,1997,4000
+New Zealand,1998,5500
+New Zealand,1999,6750
+New Zealand,2000,7400
+New Zealand,2001,9000
+New Zealand,2002,9750
+New Zealand,2003,10750
+New Zealand,2004,10950
+New Zealand,2005,11700
+New Zealand,2006,13460
+New Zealand,2007,12660
+New Zealand,2008,13410
+New Zealand,2009,15900
+New Zealand,2010,16850
+New Zealand,2011,16100
+New Zealand,2012,16600
+New Zealand,2013,18050
+New Zealand,2014,21350
+New Zealand,2015,23700
+New Zealand,2016,30050
+Italy,1990,8000
+Italy,1991,7000
+Italy,1992,7000
+Italy,1993,10000
+Italy,1994,13500
+Italy,1995,16000
+Italy,1996,17500
+Italy,1997,33000
+Italy,1998,37250
+Italy,1999,37250
+Italy,2000,38000
+Italy,2001,46750
+Italy,2002,59500
+Italy,2003,63250
+Italy,2004,62500
+Italy,2005,43750
+Italy,2006,42250
+Italy,2007,33500
+Italy,2008,24000
+Italy,2009,22500
+Italy,2010,20500
+Italy,2011,21500
+Italy,2012,18500
+Italy,2013,23500
+Italy,2014,23000
+Italy,2015,25000
+Italy,2016,29200
+DF Rest of Africa,1990,
+DF Rest of Africa,1991,
+DF Rest of Africa,1992,
+DF Rest of Africa,1993,
+DF Rest of Africa,1994,
+DF Rest of Africa,1995,
+DF Rest of Africa,1996,
+DF Rest of Africa,1997,
+DF Rest of Africa,1998,
+DF Rest of Africa,1999,
+DF Rest of Africa,2000,5250
+DF Rest of Africa,2001,3500
+DF Rest of Africa,2002,2250
+DF Rest of Africa,2003,1700
+DF Rest of Africa,2004,1775
+DF Rest of Africa,2005,1825
+DF Rest of Africa,2006,2000
+DF Rest of Africa,2007,1925
+DF Rest of Africa,2008,2950
+DF Rest of Africa,2009,5900
+DF Rest of Africa,2010,10300
+DF Rest of Africa,2011,17025
+DF Rest of Africa,2012,22150
+DF Rest of Africa,2013,24475
+DF Rest of Africa,2014,39325
+DF Rest of Africa,2015,35300
+DF Rest of Africa,2016,22975
+Finland,1990,9000
+Finland,1991,8500
+Finland,1992,7500
+Finland,1993,6500
+Finland,1994,8650
+Finland,1995,10300
+Finland,1996,11750
+Finland,1997,13000
+Finland,1998,18250
+Finland,1999,19600
+Finland,2000,20800
+Finland,2001,23200
+Finland,2002,24900
+Finland,2003,22000
+Finland,2004,25000
+Finland,2005,24250
+Finland,2006,24500
+Finland,2007,27000
+Finland,2008,25000
+Finland,2009,24000
+Finland,2010,22150
+Finland,2011,22100
+Finland,2012,21250
+Finland,2013,21000
+Finland,2014,19750
+Finland,2015,22900
+Finland,2016,22000
+Austria,1990,1250
+Austria,1991,1250
+Austria,1992,1250
+Austria,1993,1000
+Austria,1994,3000
+Austria,1995,3250
+Austria,1996,3500
+Austria,1997,4500
+Austria,1998,4750
+Austria,1999,4800
+Austria,2000,5000
+Austria,2001,6250
+Austria,2002,6550
+Austria,2003,7570
+Austria,2004,7920
+Austria,2005,8100
+Austria,2006,9200
+Austria,2007,11600
+Austria,2008,12920
+Austria,2009,12850
+Austria,2010,13500
+Austria,2011,13750
+Austria,2012,16650
+Austria,2013,16500
+Austria,2014,17350
+Austria,2015,19000
+Austria,2016,21200
+Estonia,1990,
+Estonia,1991,
+Estonia,1992,250
+Estonia,1993,500
+Estonia,1994,1250
+Estonia,1995,2250
+Estonia,1996,2600
+Estonia,1997,2900
+Estonia,1998,4700
+Estonia,1999,3500
+Estonia,2000,4450
+Estonia,2001,4560
+Estonia,2002,4270
+Estonia,2003,3840
+Estonia,2004,5980
+Estonia,2005,6490
+Estonia,2006,7760
+Estonia,2007,9350
+Estonia,2008,9300
+Estonia,2009,8200
+Estonia,2010,8400
+Estonia,2011,11600
+Estonia,2012,13990
+Estonia,2013,19550
+Estonia,2014,21430
+Estonia,2015,23050
+Estonia,2016,20950
+Belgium and Luxembourg,1990,5000
+Belgium and Luxembourg,1991,5000
+Belgium and Luxembourg,1992,6000
+Belgium and Luxembourg,1993,6000
+Belgium and Luxembourg,1994,6000
+Belgium and Luxembourg,1995,7500
+Belgium and Luxembourg,1996,8000
+Belgium and Luxembourg,1997,10000
+Belgium and Luxembourg,1998,11250
+Belgium and Luxembourg,1999,12550
+Belgium and Luxembourg,2000,14850
+Belgium and Luxembourg,2001,18000
+Belgium and Luxembourg,2002,21100
+Belgium and Luxembourg,2003,21500
+Belgium and Luxembourg,2004,21500
+Belgium and Luxembourg,2005,21500
+Belgium and Luxembourg,2006,23750
+Belgium and Luxembourg,2007,21250
+Belgium and Luxembourg,2008,22250
+Belgium and Luxembourg,2009,22750
+Belgium and Luxembourg,2010,21450
+Belgium and Luxembourg,2011,22500
+Belgium and Luxembourg,2012,23500
+Belgium and Luxembourg,2013,24750
+Belgium and Luxembourg,2014,23250
+Belgium and Luxembourg,2015,23300
+Belgium and Luxembourg,2016,20500
+Argentina,1990,
+Argentina,1991,
+Argentina,1992,0
+Argentina,1993,0
+Argentina,1994,0
+Argentina,1995,0
+Argentina,1996,1750
+Argentina,1997,1750
+Argentina,1998,3000
+Argentina,1999,3500
+Argentina,2000,3500
+Argentina,2001,1750
+Argentina,2002,750
+Argentina,2003,750
+Argentina,2004,1250
+Argentina,2005,1250
+Argentina,2006,1500
+Argentina,2007,2250
+Argentina,2008,3000
+Argentina,2009,3500
+Argentina,2010,5750
+Argentina,2011,8500
+Argentina,2012,10050
+Argentina,2013,13150
+Argentina,2014,10600
+Argentina,2015,17850
+Argentina,2016,19050
+DF Rest of CIS,1990,
+DF Rest of CIS,1991,
+DF Rest of CIS,1992,
+DF Rest of CIS,1993,
+DF Rest of CIS,1994,
+DF Rest of CIS,1995,
+DF Rest of CIS,1996,
+DF Rest of CIS,1997,
+DF Rest of CIS,1998,
+DF Rest of CIS,1999,
+DF Rest of CIS,2000,
+DF Rest of CIS,2001,
+DF Rest of CIS,2002,1000
+DF Rest of CIS,2003,900
+DF Rest of CIS,2004,900
+DF Rest of CIS,2005,925
+DF Rest of CIS,2006,1100
+DF Rest of CIS,2007,1350
+DF Rest of CIS,2008,1675
+DF Rest of CIS,2009,2025
+DF Rest of CIS,2010,4800
+DF Rest of CIS,2011,8725
+DF Rest of CIS,2012,10375
+DF Rest of CIS,2013,18450
+DF Rest of CIS,2014,19850
+DF Rest of CIS,2015,18200
+DF Rest of CIS,2016,18875
+Romania,1990,
+Romania,1991,
+Romania,1992,
+Romania,1993,
+Romania,1994,
+Romania,1995,
+Romania,1996,
+Romania,1997,
+Romania,1998,250
+Romania,1999,1000
+Romania,2000,1000
+Romania,2001,1000
+Romania,2002,1750
+Romania,2003,1750
+Romania,2004,2150
+Romania,2005,3650
+Romania,2006,3900
+Romania,2007,3000
+Romania,2008,4900
+Romania,2009,3900
+Romania,2010,5000
+Romania,2011,5950
+Romania,2012,7960
+Romania,2013,9500
+Romania,2014,11800
+Romania,2015,13000
+Romania,2016,16950
+DF Australia,1990,
+DF Australia,1991,
+DF Australia,1992,
+DF Australia,1993,
+DF Australia,1994,
+DF Australia,1995,
+DF Australia,1996,
+DF Australia,1997,
+DF Australia,1998,
+DF Australia,1999,
+DF Australia,2000,2200
+DF Australia,2001,2400
+DF Australia,2002,4500
+DF Australia,2003,5950
+DF Australia,2004,6500
+DF Australia,2005,5450
+DF Australia,2006,5750
+DF Australia,2007,7925
+DF Australia,2008,9200
+DF Australia,2009,9300
+DF Australia,2010,8500
+DF Australia,2011,10050
+DF Australia,2012,9800
+DF Australia,2013,11250
+DF Australia,2014,12000
+DF Australia,2015,14850
+DF Australia,2016,15700
+Hungary,1990,300
+Hungary,1991,300
+Hungary,1992,250
+Hungary,1993,500
+Hungary,1994,1000
+Hungary,1995,1250
+Hungary,1996,2500
+Hungary,1997,3750
+Hungary,1998,5000
+Hungary,1999,5500
+Hungary,2000,6000
+Hungary,2001,5000
+Hungary,2002,5750
+Hungary,2003,6000
+Hungary,2004,6900
+Hungary,2005,7250
+Hungary,2006,8700
+Hungary,2007,10200
+Hungary,2008,10350
+Hungary,2009,8300
+Hungary,2010,9000
+Hungary,2011,9750
+Hungary,2012,10750
+Hungary,2013,10700
+Hungary,2014,13000
+Hungary,2015,14250
+Hungary,2016,15390
+DF Spain,1990,
+DF Spain,1991,
+DF Spain,1992,
+DF Spain,1993,
+DF Spain,1994,3250
+DF Spain,1995,4900
+DF Spain,1996,6150
+DF Spain,1997,6000
+DF Spain,1998,6750
+DF Spain,1999,5200
+DF Spain,2000,5850
+DF Spain,2001,7000
+DF Spain,2002,4700
+DF Spain,2003,8250
+DF Spain,2004,10250
+DF Spain,2005,11525
+DF Spain,2006,12500
+DF Spain,2007,13475
+DF Spain,2008,15275
+DF Spain,2009,13500
+DF Spain,2010,13900
+DF Spain,2011,16925
+DF Spain,2012,12300
+DF Spain,2013,12100
+DF Spain,2014,12125
+DF Spain,2015,13085
+DF Spain,2016,14985
+Switzerland,1990,3500
+Switzerland,1991,3500
+Switzerland,1992,3500
+Switzerland,1993,3000
+Switzerland,1994,4500
+Switzerland,1995,4250
+Switzerland,1996,4500
+Switzerland,1997,3500
+Switzerland,1998,4000
+Switzerland,1999,5450
+Switzerland,2000,5700
+Switzerland,2001,6700
+Switzerland,2002,6800
+Switzerland,2003,7500
+Switzerland,2004,7500
+Switzerland,2005,7250
+Switzerland,2006,7250
+Switzerland,2007,7500
+Switzerland,2008,9250
+Switzerland,2009,9050
+Switzerland,2010,9200
+Switzerland,2011,9950
+Switzerland,2012,9850
+Switzerland,2013,9600
+Switzerland,2014,11200
+Switzerland,2015,11250
+Switzerland,2016,14600
+DF Rest of Central & Eastern Europe,1990,
+DF Rest of Central & Eastern Europe,1991,
+DF Rest of Central & Eastern Europe,1992,
+DF Rest of Central & Eastern Europe,1993,
+DF Rest of Central & Eastern Europe,1994,
+DF Rest of Central & Eastern Europe,1995,
+DF Rest of Central & Eastern Europe,1996,
+DF Rest of Central & Eastern Europe,1997,
+DF Rest of Central & Eastern Europe,1998,
+DF Rest of Central & Eastern Europe,1999,
+DF Rest of Central & Eastern Europe,2000,
+DF Rest of Central & Eastern Europe,2001,2725
+DF Rest of Central & Eastern Europe,2002,1025
+DF Rest of Central & Eastern Europe,2003,935
+DF Rest of Central & Eastern Europe,2004,1000
+DF Rest of Central & Eastern Europe,2005,1250
+DF Rest of Central & Eastern Europe,2006,1600
+DF Rest of Central & Eastern Europe,2007,2150
+DF Rest of Central & Eastern Europe,2008,2900
+DF Rest of Central & Eastern Europe,2009,3100
+DF Rest of Central & Eastern Europe,2010,5250
+DF Rest of Central & Eastern Europe,2011,8900
+DF Rest of Central & Eastern Europe,2012,9650
+DF Rest of Central & Eastern Europe,2013,10490
+DF Rest of Central & Eastern Europe,2014,13575
+DF Rest of Central & Eastern Europe,2015,14000
+DF Rest of Central & Eastern Europe,2016,14325
+Brazil,1990,0
+Brazil,1991,0
+Brazil,1992,250
+Brazil,1993,250
+Brazil,1994,250
+Brazil,1995,250
+Brazil,1996,250
+Brazil,1997,500
+Brazil,1998,500
+Brazil,1999,500
+Brazil,2000,500
+Brazil,2001,500
+Brazil,2002,500
+Brazil,2003,3250
+Brazil,2004,6000
+Brazil,2005,8250
+Brazil,2006,9250
+Brazil,2007,9250
+Brazil,2008,5750
+Brazil,2009,4250
+Brazil,2010,3250
+Brazil,2011,5650
+Brazil,2012,6650
+Brazil,2013,7400
+Brazil,2014,9600
+Brazil,2015,11000
+Brazil,2016,14000
+Canary Islands,1990,1500
+Canary Islands,1991,1750
+Canary Islands,1992,1750
+Canary Islands,1993,1500
+Canary Islands,1994,1500
+Canary Islands,1995,1500
+Canary Islands,1996,1500
+Canary Islands,1997,2000
+Canary Islands,1998,2000
+Canary Islands,1999,3000
+Canary Islands,2000,4750
+Canary Islands,2001,8250
+Canary Islands,2002,9250
+Canary Islands,2003,14250
+Canary Islands,2004,13250
+Canary Islands,2005,12500
+Canary Islands,2006,12500
+Canary Islands,2007,9500
+Canary Islands,2008,9650
+Canary Islands,2009,7000
+Canary Islands,2010,7400
+Canary Islands,2011,5900
+Canary Islands,2012,7150
+Canary Islands,2013,7650
+Canary Islands,2014,9650
+Canary Islands,2015,10350
+Canary Islands,2016,11500
+Thailand,1990,750
+Thailand,1991,500
+Thailand,1992,500
+Thailand,1993,750
+Thailand,1994,600
+Thailand,1995,700
+Thailand,1996,750
+Thailand,1997,1500
+Thailand,1998,2000
+Thailand,1999,3750
+Thailand,2000,3500
+Thailand,2001,3500
+Thailand,2002,4500
+Thailand,2003,4750
+Thailand,2004,7750
+Thailand,2005,4500
+Thailand,2006,4000
+Thailand,2007,3650
+Thailand,2008,4000
+Thailand,2009,3000
+Thailand,2010,3750
+Thailand,2011,4250
+Thailand,2012,5350
+Thailand,2013,4000
+Thailand,2014,5250
+Thailand,2015,6500
+Thailand,2016,11500
+DF Turkey,1990,
+DF Turkey,1991,
+DF Turkey,1992,
+DF Turkey,1993,
+DF Turkey,1994,
+DF Turkey,1995,
+DF Turkey,1996,
+DF Turkey,1997,
+DF Turkey,1998,
+DF Turkey,1999,
+DF Turkey,2000,1250
+DF Turkey,2001,1100
+DF Turkey,2002,1050
+DF Turkey,2003,2050
+DF Turkey,2004,2000
+DF Turkey,2005,2175
+DF Turkey,2006,2125
+DF Turkey,2007,2175
+DF Turkey,2008,6875
+DF Turkey,2009,7125
+DF Turkey,2010,8300
+DF Turkey,2011,13200
+DF Turkey,2012,14100
+DF Turkey,2013,11800
+DF Turkey,2014,13565
+DF Turkey,2015,10400
+DF Turkey,2016,11475
+DF Gulf - (All Countries),1990,
+DF Gulf - (All Countries),1991,
+DF Gulf - (All Countries),1992,
+DF Gulf - (All Countries),1993,
+DF Gulf - (All Countries),1994,
+DF Gulf - (All Countries),1995,
+DF Gulf - (All Countries),1996,
+DF Gulf - (All Countries),1997,
+DF Gulf - (All Countries),1998,
+DF Gulf - (All Countries),1999,
+DF Gulf - (All Countries),2000,5250
+DF Gulf - (All Countries),2001,5300
+DF Gulf - (All Countries),2002,3250
+DF Gulf - (All Countries),2003,3000
+DF Gulf - (All Countries),2004,3500
+DF Gulf - (All Countries),2005,4200
+DF Gulf - (All Countries),2006,4000
+DF Gulf - (All Countries),2007,4250
+DF Gulf - (All Countries),2008,4925
+DF Gulf - (All Countries),2009,3550
+DF Gulf - (All Countries),2010,5525
+DF Gulf - (All Countries),2011,6550
+DF Gulf - (All Countries),2012,7725
+DF Gulf - (All Countries),2013,7800
+DF Gulf - (All Countries),2014,8825
+DF Gulf - (All Countries),2015,9150
+DF Gulf - (All Countries),2016,10700
+DF Netherlands,1990,
+DF Netherlands,1991,
+DF Netherlands,1992,
+DF Netherlands,1993,
+DF Netherlands,1994,5500
+DF Netherlands,1995,6000
+DF Netherlands,1996,6000
+DF Netherlands,1997,6000
+DF Netherlands,1998,6250
+DF Netherlands,1999,4900
+DF Netherlands,2000,3500
+DF Netherlands,2001,3500
+DF Netherlands,2002,3750
+DF Netherlands,2003,3675
+DF Netherlands,2004,3575
+DF Netherlands,2005,3600
+DF Netherlands,2006,4275
+DF Netherlands,2007,4800
+DF Netherlands,2008,6750
+DF Netherlands,2009,7250
+DF Netherlands,2010,9750
+DF Netherlands,2011,8575
+DF Netherlands,2012,9600
+DF Netherlands,2013,9590
+DF Netherlands,2014,9550
+DF Netherlands,2015,9660
+DF Netherlands,2016,9350
+Others,1990,42350
+Others,1991,45350
+Others,1992,46550
+Others,1993,49990
+Others,1994,56450
+Others,1995,58870
+Others,1996,61525
+Others,1997,62400
+Others,1998,69100
+Others,1999,61645
+Others,2000,54145
+Others,2001,57280
+Others,2002,53730
+Others,2003,62680
+Others,2004,64490
+Others,2005,71620
+Others,2006,81240
+Others,2007,87570
+Others,2008,97505
+Others,2009,87725
+Others,2010,110025
+Others,2011,145135
+Others,2012,140545
+Others,2013,145660
+Others,2014,138525
+Others,2015,133445
+Others,2016,158185
+United States,1990,7500
+United States,1991,8250
+United States,1992,8000
+United States,1993,8000
+United States,1994,12000
+United States,1995,14500
+United States,1996,19000
+United States,1997,18500
+United States,1998,16000
+United States,1999,18000
+United States,2000,17250
+United States,2001,17950
+United States,2002,19850
+United States,2003,20700
+United States,2004,20100
+United States,2005,20300
+United States,2006,34500
+United States,2007,41250
+United States,2008,38500
+United States,2009,31500
+United States,2010,34150
+United States,2011,37500
+United States,2012,49250
+United States,2013,52750
+United States,2014,82250
+United States,2015,167250
+United States,2016,268250
+Ireland,1990,32000
+Ireland,1991,33000
+Ireland,1992,30000
+Ireland,1993,32000
+Ireland,1994,31000
+Ireland,1995,29000
+Ireland,1996,30150
+Ireland,1997,31650
+Ireland,1998,32250
+Ireland,1999,35050
+Ireland,2000,34750
+Ireland,2001,37450
+Ireland,2002,36550
+Ireland,2003,30750
+Ireland,2004,29850
+Ireland,2005,28250
+Ireland,2006,25650
+Ireland,2007,27150
+Ireland,2008,24200
+Ireland,2009,22600
+Ireland,2010,25950
+Ireland,2011,28050
+Ireland,2012,24550
+Ireland,2013,24700
+Ireland,2014,31380
+Ireland,2015,46400
+Ireland,2016,57550
+Germany,1990,0
+Germany,1991,0
+Germany,1992,0
+Germany,1993,0
+Germany,1994,250
+Germany,1995,750
+Germany,1996,2750
+Germany,1997,3350
+Germany,1998,2900
+Germany,1999,3650
+Germany,2000,4550
+Germany,2001,5700
+Germany,2002,5700
+Germany,2003,6500
+Germany,2004,7600
+Germany,2005,7750
+Germany,2006,8350
+Germany,2007,10650
+Germany,2008,10150
+Germany,2009,10600
+Germany,2010,12650
+Germany,2011,18600
+Germany,2012,19000
+Germany,2013,28800
+Germany,2014,33250
+Germany,2015,40350
+Germany,2016,43500
+France,1990,
+France,1991,
+France,1992,
+France,1993,2000
+France,1994,3000
+France,1995,5000
+France,1996,9000
+France,1997,12000
+France,1998,16000
+France,1999,19000
+France,2000,24000
+France,2001,27000
+France,2002,28000
+France,2003,20000
+France,2004,19000
+France,2005,17750
+France,2006,15750
+France,2007,18750
+France,2008,22000
+France,2009,18500
+France,2010,17250
+France,2011,15500
+France,2012,15750
+France,2013,16000
+France,2014,19500
+France,2015,28250
+France,2016,33250
+South Africa,1990,0
+South Africa,1991,0
+South Africa,1992,0
+South Africa,1993,0
+South Africa,1994,0
+South Africa,1995,0
+South Africa,1996,0
+South Africa,1997,250
+South Africa,1998,250
+South Africa,1999,500
+South Africa,2000,750
+South Africa,2001,920
+South Africa,2002,900
+South Africa,2003,900
+South Africa,2004,1680
+South Africa,2005,1920
+South Africa,2006,3500
+South Africa,2007,3000
+South Africa,2008,4000
+South Africa,2009,4000
+South Africa,2010,7500
+South Africa,2011,9500
+South Africa,2012,8300
+South Africa,2013,10000
+South Africa,2014,14650
+South Africa,2015,16950
+South Africa,2016,25450
+DF British Isles (Inc. Ireland),1990,31500
+DF British Isles (Inc. Ireland),1991,36000
+DF British Isles (Inc. Ireland),1992,37450
+DF British Isles (Inc. Ireland),1993,40250
+DF British Isles (Inc. Ireland),1994,46550
+DF British Isles (Inc. Ireland),1995,50950
+DF British Isles (Inc. Ireland),1996,57300
+DF British Isles (Inc. Ireland),1997,58700
+DF British Isles (Inc. Ireland),1998,56000
+DF British Isles (Inc. Ireland),1999,31850
+DF British Isles (Inc. Ireland),2000,26675
+DF British Isles (Inc. Ireland),2001,30125
+DF British Isles (Inc. Ireland),2002,22225
+DF British Isles (Inc. Ireland),2003,19225
+DF British Isles (Inc. Ireland),2004,18550
+DF British Isles (Inc. Ireland),2005,18250
+DF British Isles (Inc. Ireland),2006,15500
+DF British Isles (Inc. Ireland),2007,14825
+DF British Isles (Inc. Ireland),2008,14900
+DF British Isles (Inc. Ireland),2009,16050
+DF British Isles (Inc. Ireland),2010,13950
+DF British Isles (Inc. Ireland),2011,14000
+DF British Isles (Inc. Ireland),2012,14225
+DF British Isles (Inc. Ireland),2013,12000
+DF British Isles (Inc. Ireland),2014,14930
+DF British Isles (Inc. Ireland),2015,18510
+DF British Isles (Inc. Ireland),2016,23695
+Canada,1990,1150
+Canada,1991,1250
+Canada,1992,1000
+Canada,1993,1150
+Canada,1994,1900
+Canada,1995,2250
+Canada,1996,2500
+Canada,1997,3100
+Canada,1998,3150
+Canada,1999,4150
+Canada,2000,4750
+Canada,2001,5000
+Canada,2002,5250
+Canada,2003,6100
+Canada,2004,6750
+Canada,2005,6750
+Canada,2006,7250
+Canada,2007,7650
+Canada,2008,8350
+Canada,2009,8750
+Canada,2010,9350
+Canada,2011,10450
+Canada,2012,10600
+Canada,2013,10750
+Canada,2014,11000
+Canada,2015,14400
+Canada,2016,18200
+United Kingdom,1990,35000
+United Kingdom,1991,38000
+United Kingdom,1992,34500
+United Kingdom,1993,34500
+United Kingdom,1994,33000
+United Kingdom,1995,29000
+United Kingdom,1996,29000
+United Kingdom,1997,27000
+United Kingdom,1998,25000
+United Kingdom,1999,27500
+United Kingdom,2000,28000
+United Kingdom,2001,29750
+United Kingdom,2002,31500
+United Kingdom,2003,32000
+United Kingdom,2004,31500
+United Kingdom,2005,32000
+United Kingdom,2006,34000
+United Kingdom,2007,29500
+United Kingdom,2008,28500
+United Kingdom,2009,24500
+United Kingdom,2010,26250
+United Kingdom,2011,22000
+United Kingdom,2012,12150
+United Kingdom,2013,14250
+United Kingdom,2014,10450
+United Kingdom,2015,9950
+United Kingdom,2016,14680
+Russia,1990,
+Russia,1991,
+Russia,1992,
+Russia,1993,
+Russia,1994,
+Russia,1995,
+Russia,1996,
+Russia,1997,
+Russia,1998,
+Russia,1999,
+Russia,2000,
+Russia,2001,
+Russia,2002,
+Russia,2003,0
+Russia,2004,250
+Russia,2005,2700
+Russia,2006,4750
+Russia,2007,5750
+Russia,2008,10750
+Russia,2009,8100
+Russia,2010,11250
+Russia,2011,14500
+Russia,2012,20000
+Russia,2013,20000
+Russia,2014,18700
+Russia,2015,13250
+Russia,2016,13500
+DF Germany,1990,3500
+DF Germany,1991,3500
+DF Germany,1992,3500
+DF Germany,1993,2500
+DF Germany,1994,3450
+DF Germany,1995,3700
+DF Germany,1996,5500
+DF Germany,1997,6000
+DF Germany,1998,7750
+DF Germany,1999,3500
+DF Germany,2000,2000
+DF Germany,2001,3000
+DF Germany,2002,5250
+DF Germany,2003,5145
+DF Germany,2004,4990
+DF Germany,2005,4735
+DF Germany,2006,5240
+DF Germany,2007,5340
+DF Germany,2008,5440
+DF Germany,2009,4300
+DF Germany,2010,4500
+DF Germany,2011,4080
+DF Germany,2012,3305
+DF Germany,2013,5045
+DF Germany,2014,7575
+DF Germany,2015,8050
+DF Germany,2016,9535
+DF Nordic Countries - (All Countries),1990,500
+DF Nordic Countries - (All Countries),1991,1500
+DF Nordic Countries - (All Countries),1992,1500
+DF Nordic Countries - (All Countries),1993,1500
+DF Nordic Countries - (All Countries),1994,1700
+DF Nordic Countries - (All Countries),1995,2700
+DF Nordic Countries - (All Countries),1996,2975
+DF Nordic Countries - (All Countries),1997,3475
+DF Nordic Countries - (All Countries),1998,6725
+DF Nordic Countries - (All Countries),1999,6230
+DF Nordic Countries - (All Countries),2000,5385
+DF Nordic Countries - (All Countries),2001,4250
+DF Nordic Countries - (All Countries),2002,6500
+DF Nordic Countries - (All Countries),2003,6325
+DF Nordic Countries - (All Countries),2004,5400
+DF Nordic Countries - (All Countries),2005,4150
+DF Nordic Countries - (All Countries),2006,4925
+DF Nordic Countries - (All Countries),2007,3950
+DF Nordic Countries - (All Countries),2008,6675
+DF Nordic Countries - (All Countries),2009,5650
+DF Nordic Countries - (All Countries),2010,5550
+DF Nordic Countries - (All Countries),2011,6820
+DF Nordic Countries - (All Countries),2012,5525
+DF Nordic Countries - (All Countries),2013,7415
+DF Nordic Countries - (All Countries),2014,9420
+DF Nordic Countries - (All Countries),2015,9135
+DF Nordic Countries - (All Countries),2016,9435
+Bulgaria,1990,
+Bulgaria,1991,
+Bulgaria,1992,
+Bulgaria,1993,
+Bulgaria,1994,
+Bulgaria,1995,
+Bulgaria,1996,
+Bulgaria,1997,
+Bulgaria,1998,
+Bulgaria,1999,
+Bulgaria,2000,
+Bulgaria,2001,40
+Bulgaria,2002,70
+Bulgaria,2003,870
+Bulgaria,2004,970
+Bulgaria,2005,1020
+Bulgaria,2006,2050
+Bulgaria,2007,3150
+Bulgaria,2008,6050
+Bulgaria,2009,4350
+Bulgaria,2010,5600
+Bulgaria,2011,5300
+Bulgaria,2012,5550
+Bulgaria,2013,6750
+Bulgaria,2014,7650
+Bulgaria,2015,8140
+Bulgaria,2016,9000
+Netherlands,1990,1000
+Netherlands,1991,1000
+Netherlands,1992,900
+Netherlands,1993,900
+Netherlands,1994,900
+Netherlands,1995,600
+Netherlands,1996,1000
+Netherlands,1997,1400
+Netherlands,1998,1850
+Netherlands,1999,1850
+Netherlands,2000,2250
+Netherlands,2001,2900
+Netherlands,2002,3500
+Netherlands,2003,3250
+Netherlands,2004,3500
+Netherlands,2005,3000
+Netherlands,2006,2500
+Netherlands,2007,2750
+Netherlands,2008,2630
+Netherlands,2009,3430
+Netherlands,2010,4700
+Netherlands,2011,6700
+Netherlands,2012,8550
+Netherlands,2013,8250
+Netherlands,2014,8500
+Netherlands,2015,5750
+Netherlands,2016,8950
+DF Russia,1990,
+DF Russia,1991,
+DF Russia,1992,
+DF Russia,1993,
+DF Russia,1994,
+DF Russia,1995,
+DF Russia,1996,
+DF Russia,1997,
+DF Russia,1998,
+DF Russia,1999,
+DF Russia,2000,
+DF Russia,2001,1475
+DF Russia,2002,1980
+DF Russia,2003,2000
+DF Russia,2004,2025
+DF Russia,2005,2075
+DF Russia,2006,1875
+DF Russia,2007,1600
+DF Russia,2008,1950
+DF Russia,2009,3125
+DF Russia,2010,4475
+DF Russia,2011,7515
+DF Russia,2012,8950
+DF Russia,2013,9650
+DF Russia,2014,8700
+DF Russia,2015,6790
+DF Russia,2016,8210
+Australia,1990,0
+Australia,1991,0
+Australia,1992,0
+Australia,1993,500
+Australia,1994,500
+Australia,1995,500
+Australia,1996,1250
+Australia,1997,1250
+Australia,1998,1300
+Australia,1999,2000
+Australia,2000,2250
+Australia,2001,2500
+Australia,2002,2750
+Australia,2003,3000
+Australia,2004,4250
+Australia,2005,3000
+Australia,2006,3250
+Australia,2007,3250
+Australia,2008,3750
+Australia,2009,3650
+Australia,2010,3500
+Australia,2011,2750
+Australia,2012,3100
+Australia,2013,5650
+Australia,2014,4150
+Australia,2015,4500
+Australia,2016,7750
+Portugal,1990,0
+Portugal,1991,
+Portugal,1992,
+Portugal,1993,100
+Portugal,1994,200
+Portugal,1995,550
+Portugal,1996,850
+Portugal,1997,1450
+Portugal,1998,2050
+Portugal,1999,2500
+Portugal,2000,2950
+Portugal,2001,3500
+Portugal,2002,3150
+Portugal,2003,2800
+Portugal,2004,3400
+Portugal,2005,2470
+Portugal,2006,2500
+Portugal,2007,2500
+Portugal,2008,2250
+Portugal,2009,1950
+Portugal,2010,2200
+Portugal,2011,1250
+Portugal,2012,1650
+Portugal,2013,2200
+Portugal,2014,3100
+Portugal,2015,3450
+Portugal,2016,7350
+Mexico,1990,
+Mexico,1991,
+Mexico,1992,
+Mexico,1993,
+Mexico,1994,
+Mexico,1995,
+Mexico,1996,
+Mexico,1997,
+Mexico,1998,
+Mexico,1999,
+Mexico,2000,
+Mexico,2001,
+Mexico,2002,
+Mexico,2003,
+Mexico,2004,
+Mexico,2005,
+Mexico,2006,
+Mexico,2007,
+Mexico,2008,
+Mexico,2009,
+Mexico,2010,
+Mexico,2011,
+Mexico,2012,
+Mexico,2013,
+Mexico,2014,
+Mexico,2015,900
+Mexico,2016,6800
+Czech Republic,1990,
+Czech Republic,1991,
+Czech Republic,1992,
+Czech Republic,1993,
+Czech Republic,1994,
+Czech Republic,1995,
+Czech Republic,1996,
+Czech Republic,1997,
+Czech Republic,1998,0
+Czech Republic,1999,0
+Czech Republic,2000,650
+Czech Republic,2001,750
+Czech Republic,2002,1000
+Czech Republic,2003,1240
+Czech Republic,2004,1030
+Czech Republic,2005,520
+Czech Republic,2006,500
+Czech Republic,2007,1050
+Czech Republic,2008,1050
+Czech Republic,2009,1250
+Czech Republic,2010,6750
+Czech Republic,2011,8150
+Czech Republic,2012,6600
+Czech Republic,2013,8750
+Czech Republic,2014,9250
+Czech Republic,2015,9000
+Czech Republic,2016,6500
+Poland,1990,
+Poland,1991,
+Poland,1992,
+Poland,1993,
+Poland,1994,
+Poland,1995,
+Poland,1996,
+Poland,1997,
+Poland,1998,
+Poland,1999,
+Poland,2000,
+Poland,2001,
+Poland,2002,
+Poland,2003,
+Poland,2004,
+Poland,2005,
+Poland,2006,500
+Poland,2007,600
+Poland,2008,3800
+Poland,2009,2400
+Poland,2010,2500
+Poland,2011,3500
+Poland,2012,4200
+Poland,2013,4700
+Poland,2014,6050
+Poland,2015,5600
+Poland,2016,5500
+DF Australia,1990,
+DF Australia,1991,
+DF Australia,1992,
+DF Australia,1993,
+DF Australia,1994,
+DF Australia,1995,
+DF Australia,1996,
+DF Australia,1997,
+DF Australia,1998,
+DF Australia,1999,
+DF Australia,2000,800
+DF Australia,2001,100
+DF Australia,2002,750
+DF Australia,2003,550
+DF Australia,2004,1250
+DF Australia,2005,1300
+DF Australia,2006,1500
+DF Australia,2007,2075
+DF Australia,2008,2075
+DF Australia,2009,3050
+DF Australia,2010,2850
+DF Australia,2011,3200
+DF Australia,2012,4100
+DF Australia,2013,4000
+DF Australia,2014,3550
+DF Australia,2015,3800
+DF Australia,2016,4900
+DF US/Canada,1990,3000
+DF US/Canada,1991,3000
+DF US/Canada,1992,3500
+DF US/Canada,1993,3000
+DF US/Canada,1994,3700
+DF US/Canada,1995,3600
+DF US/Canada,1996,3525
+DF US/Canada,1997,3250
+DF US/Canada,1998,3850
+DF US/Canada,1999,4600
+DF US/Canada,2000,4450
+DF US/Canada,2001,4225
+DF US/Canada,2002,2975
+DF US/Canada,2003,2475
+DF US/Canada,2004,2950
+DF US/Canada,2005,2675
+DF US/Canada,2006,3175
+DF US/Canada,2007,4225
+DF US/Canada,2008,4975
+DF US/Canada,2009,2000
+DF US/Canada,2010,3250
+DF US/Canada,2011,4900
+DF US/Canada,2012,3875
+DF US/Canada,2013,3810
+DF US/Canada,2014,6600
+DF US/Canada,2015,4500
+DF US/Canada,2016,4445
+Austria,1990,
+Austria,1991,
+Austria,1992,
+Austria,1993,
+Austria,1994,
+Austria,1995,
+Austria,1996,
+Austria,1997,
+Austria,1998,250
+Austria,1999,400
+Austria,2000,350
+Austria,2001,420
+Austria,2002,630
+Austria,2003,960
+Austria,2004,960
+Austria,2005,1430
+Austria,2006,1870
+Austria,2007,1920
+Austria,2008,3100
+Austria,2009,3070
+Austria,2010,3300
+Austria,2011,3350
+Austria,2012,3550
+Austria,2013,3650
+Austria,2014,3100
+Austria,2015,3800
+Austria,2016,4250
+DF Switzerland,1990,
+DF Switzerland,1991,
+DF Switzerland,1992,
+DF Switzerland,1993,
+DF Switzerland,1994,500
+DF Switzerland,1995,500
+DF Switzerland,1996,500
+DF Switzerland,1997,750
+DF Switzerland,1998,750
+DF Switzerland,1999,750
+DF Switzerland,2000,650
+DF Switzerland,2001,645
+DF Switzerland,2002,690
+DF Switzerland,2003,745
+DF Switzerland,2004,740
+DF Switzerland,2005,665
+DF Switzerland,2006,600
+DF Switzerland,2007,500
+DF Switzerland,2008,900
+DF Switzerland,2009,650
+DF Switzerland,2010,700
+DF Switzerland,2011,1000
+DF Switzerland,2012,1400
+DF Switzerland,2013,2915
+DF Switzerland,2014,3815
+DF Switzerland,2015,3750
+DF Switzerland,2016,3750
+DF Gulf - (All Countries),1990,
+DF Gulf - (All Countries),1991,
+DF Gulf - (All Countries),1992,
+DF Gulf - (All Countries),1993,
+DF Gulf - (All Countries),1994,
+DF Gulf - (All Countries),1995,
+DF Gulf - (All Countries),1996,
+DF Gulf - (All Countries),1997,
+DF Gulf - (All Countries),1998,
+DF Gulf - (All Countries),1999,
+DF Gulf - (All Countries),2000,500
+DF Gulf - (All Countries),2001,450
+DF Gulf - (All Countries),2002,500
+DF Gulf - (All Countries),2003,350
+DF Gulf - (All Countries),2004,325
+DF Gulf - (All Countries),2005,325
+DF Gulf - (All Countries),2006,450
+DF Gulf - (All Countries),2007,525
+DF Gulf - (All Countries),2008,1250
+DF Gulf - (All Countries),2009,1000
+DF Gulf - (All Countries),2010,1175
+DF Gulf - (All Countries),2011,1725
+DF Gulf - (All Countries),2012,2365
+DF Gulf - (All Countries),2013,6040
+DF Gulf - (All Countries),2014,3060
+DF Gulf - (All Countries),2015,3570
+DF Gulf - (All Countries),2016,3720
+DF France,1990,2000
+DF France,1991,2500
+DF France,1992,3000
+DF France,1993,3250
+DF France,1994,3000
+DF France,1995,3950
+DF France,1996,4625
+DF France,1997,4875
+DF France,1998,4700
+DF France,1999,2505
+DF France,2000,1235
+DF France,2001,2090
+DF France,2002,3135
+DF France,2003,2235
+DF France,2004,2065
+DF France,2005,1985
+DF France,2006,1715
+DF France,2007,1790
+DF France,2008,2140
+DF France,2009,1850
+DF France,2010,3000
+DF France,2011,3375
+DF France,2012,3825
+DF France,2013,4000
+DF France,2014,3935
+DF France,2015,3685
+DF France,2016,3685
+Sweden,1990,100
+Sweden,1991,200
+Sweden,1992,1100
+Sweden,1993,2100
+Sweden,1994,2100
+Sweden,1995,1500
+Sweden,1996,1600
+Sweden,1997,1700
+Sweden,1998,2000
+Sweden,1999,2250
+Sweden,2000,3000
+Sweden,2001,3150
+Sweden,2002,3370
+Sweden,2003,2850
+Sweden,2004,2200
+Sweden,2005,2100
+Sweden,2006,2150
+Sweden,2007,3200
+Sweden,2008,2800
+Sweden,2009,3400
+Sweden,2010,4650
+Sweden,2011,3600
+Sweden,2012,3350
+Sweden,2013,2500
+Sweden,2014,3000
+Sweden,2015,2000
+Sweden,2016,3000
+Belgium and Luxembourg,1990,0
+Belgium and Luxembourg,1991,0
+Belgium and Luxembourg,1992,0
+Belgium and Luxembourg,1993,0
+Belgium and Luxembourg,1994,0
+Belgium and Luxembourg,1995,0
+Belgium and Luxembourg,1996,0
+Belgium and Luxembourg,1997,0
+Belgium and Luxembourg,1998,0
+Belgium and Luxembourg,1999,200
+Belgium and Luxembourg,2000,400
+Belgium and Luxembourg,2001,750
+Belgium and Luxembourg,2002,1150
+Belgium and Luxembourg,2003,1500
+Belgium and Luxembourg,2004,2000
+Belgium and Luxembourg,2005,2000
+Belgium and Luxembourg,2006,1750
+Belgium and Luxembourg,2007,1250
+Belgium and Luxembourg,2008,1500
+Belgium and Luxembourg,2009,2250
+Belgium and Luxembourg,2010,2550
+Belgium and Luxembourg,2011,3000
+Belgium and Luxembourg,2012,3250
+Belgium and Luxembourg,2013,4500
+Belgium and Luxembourg,2014,3000
+Belgium and Luxembourg,2015,2450
+Belgium and Luxembourg,2016,3000
+DF Spain,1990,
+DF Spain,1991,
+DF Spain,1992,
+DF Spain,1993,
+DF Spain,1994,1250
+DF Spain,1995,1600
+DF Spain,1996,1600
+DF Spain,1997,1500
+DF Spain,1998,3250
+DF Spain,1999,1900
+DF Spain,2000,1400
+DF Spain,2001,1000
+DF Spain,2002,550
+DF Spain,2003,250
+DF Spain,2004,250
+DF Spain,2005,225
+DF Spain,2006,750
+DF Spain,2007,750
+DF Spain,2008,1250
+DF Spain,2009,1400
+DF Spain,2010,1850
+DF Spain,2011,2200
+DF Spain,2012,2325
+DF Spain,2013,1500
+DF Spain,2014,1725
+DF Spain,2015,1515
+DF Spain,2016,2165
+Ukraine,1990,
+Ukraine,1991,
+Ukraine,1992,
+Ukraine,1993,
+Ukraine,1994,
+Ukraine,1995,
+Ukraine,1996,
+Ukraine,1997,
+Ukraine,1998,
+Ukraine,1999,
+Ukraine,2000,
+Ukraine,2001,
+Ukraine,2002,
+Ukraine,2003,
+Ukraine,2004,
+Ukraine,2005,
+Ukraine,2006,
+Ukraine,2007,
+Ukraine,2008,1000
+Ukraine,2009,700
+Ukraine,2010,1250
+Ukraine,2011,2750
+Ukraine,2012,4250
+Ukraine,2013,4750
+Ukraine,2014,3050
+Ukraine,2015,2050
+Ukraine,2016,1750
+Latvia,1990,0
+Latvia,1991,0
+Latvia,1992,0
+Latvia,1993,0
+Latvia,1994,0
+Latvia,1995,0
+Latvia,1996,0
+Latvia,1997,0
+Latvia,1998,0
+Latvia,1999,0
+Latvia,2000,0
+Latvia,2001,0
+Latvia,2002,120
+Latvia,2003,200
+Latvia,2004,150
+Latvia,2005,250
+Latvia,2006,500
+Latvia,2007,550
+Latvia,2008,750
+Latvia,2009,150
+Latvia,2010,100
+Latvia,2011,850
+Latvia,2012,860
+Latvia,2013,1340
+Latvia,2014,1370
+Latvia,2015,1830
+Latvia,2016,1750
+Japan,1990,2250
+Japan,1991,1750
+Japan,1992,1750
+Japan,1993,1500
+Japan,1994,1350
+Japan,1995,1200
+Japan,1996,2400
+Japan,1997,2300
+Japan,1998,1600
+Japan,1999,9350
+Japan,2000,8550
+Japan,2001,7400
+Japan,2002,3300
+Japan,2003,1500
+Japan,2004,1200
+Japan,2005,1210
+Japan,2006,1450
+Japan,2007,1700
+Japan,2008,1700
+Japan,2009,1700
+Japan,2010,1950
+Japan,2011,1700
+Japan,2012,1950
+Japan,2013,2400
+Japan,2014,2300
+Japan,2015,2650
+Japan,2016,1750
+DF Rest of Africa,1990,
+DF Rest of Africa,1991,
+DF Rest of Africa,1992,
+DF Rest of Africa,1993,
+DF Rest of Africa,1994,
+DF Rest of Africa,1995,
+DF Rest of Africa,1996,
+DF Rest of Africa,1997,
+DF Rest of Africa,1998,
+DF Rest of Africa,1999,
+DF Rest of Africa,2000,1725
+DF Rest of Africa,2001,975
+DF Rest of Africa,2002,475
+DF Rest of Africa,2003,325
+DF Rest of Africa,2004,225
+DF Rest of Africa,2005,200
+DF Rest of Africa,2006,275
+DF Rest of Africa,2007,250
+DF Rest of Africa,2008,950
+DF Rest of Africa,2009,550
+DF Rest of Africa,2010,1400
+DF Rest of Africa,2011,1675
+DF Rest of Africa,2012,1595
+DF Rest of Africa,2013,1075
+DF Rest of Africa,2014,1625
+DF Rest of Africa,2015,1275
+DF Rest of Africa,2016,1750
+Finland,1990,0
+Finland,1991,0
+Finland,1992,0
+Finland,1993,0
+Finland,1994,50
+Finland,1995,0
+Finland,1996,0
+Finland,1997,0
+Finland,1998,250
+Finland,1999,400
+Finland,2000,1200
+Finland,2001,1700
+Finland,2002,2000
+Finland,2003,1800
+Finland,2004,1800
+Finland,2005,1850
+Finland,2006,2000
+Finland,2007,2000
+Finland,2008,1750
+Finland,2009,1500
+Finland,2010,1350
+Finland,2011,1400
+Finland,2012,1500
+Finland,2013,1500
+Finland,2014,1250
+Finland,2015,1750
+Finland,2016,1750
+DF Turkey,1990,
+DF Turkey,1991,
+DF Turkey,1992,
+DF Turkey,1993,
+DF Turkey,1994,
+DF Turkey,1995,
+DF Turkey,1996,
+DF Turkey,1997,
+DF Turkey,1998,
+DF Turkey,1999,
+DF Turkey,2000,150
+DF Turkey,2001,200
+DF Turkey,2002,200
+DF Turkey,2003,250
+DF Turkey,2004,225
+DF Turkey,2005,175
+DF Turkey,2006,100
+DF Turkey,2007,100
+DF Turkey,2008,250
+DF Turkey,2009,275
+DF Turkey,2010,550
+DF Turkey,2011,795
+DF Turkey,2012,1010
+DF Turkey,2013,1015
+DF Turkey,2014,1125
+DF Turkey,2015,975
+DF Turkey,2016,1450
+DF Czech Republic,1990,
+DF Czech Republic,1991,
+DF Czech Republic,1992,
+DF Czech Republic,1993,
+DF Czech Republic,1994,
+DF Czech Republic,1995,
+DF Czech Republic,1996,
+DF Czech Republic,1997,
+DF Czech Republic,1998,
+DF Czech Republic,1999,
+DF Czech Republic,2000,
+DF Czech Republic,2001,
+DF Czech Republic,2002,150
+DF Czech Republic,2003,25
+DF Czech Republic,2004,10
+DF Czech Republic,2005,120
+DF Czech Republic,2006,60
+DF Czech Republic,2007,100
+DF Czech Republic,2008,475
+DF Czech Republic,2009,400
+DF Czech Republic,2010,525
+DF Czech Republic,2011,520
+DF Czech Republic,2012,930
+DF Czech Republic,2013,670
+DF Czech Republic,2014,775
+DF Czech Republic,2015,825
+DF Czech Republic,2016,1350
+DF Netherlands,1990,
+DF Netherlands,1991,
+DF Netherlands,1992,
+DF Netherlands,1993,
+DF Netherlands,1994,1450
+DF Netherlands,1995,1975
+DF Netherlands,1996,2225
+DF Netherlands,1997,2225
+DF Netherlands,1998,3975
+DF Netherlands,1999,1590
+DF Netherlands,2000,750
+DF Netherlands,2001,750
+DF Netherlands,2002,750
+DF Netherlands,2003,575
+DF Netherlands,2004,425
+DF Netherlands,2005,400
+DF Netherlands,2006,975
+DF Netherlands,2007,1300
+DF Netherlands,2008,1500
+DF Netherlands,2009,2025
+DF Netherlands,2010,2225
+DF Netherlands,2011,1315
+DF Netherlands,2012,1275
+DF Netherlands,2013,970
+DF Netherlands,2014,760
+DF Netherlands,2015,950
+DF Netherlands,2016,1310
+Spain,1990,
+Spain,1991,
+Spain,1992,
+Spain,1993,
+Spain,1994,250
+Spain,1995,250
+Spain,1996,250
+Spain,1997,250
+Spain,1998,250
+Spain,1999,250
+Spain,2000,250
+Spain,2001,250
+Spain,2002,250
+Spain,2003,250
+Spain,2004,1750
+Spain,2005,2000
+Spain,2006,1500
+Spain,2007,1500
+Spain,2008,2250
+Spain,2009,2500
+Spain,2010,2000
+Spain,2011,2000
+Spain,2012,2000
+Spain,2013,1500
+Spain,2014,1250
+Spain,2015,1500
+Spain,2016,1300
+DF Rest of Central & Eastern Europe,1990,
+DF Rest of Central & Eastern Europe,1991,
+DF Rest of Central & Eastern Europe,1992,
+DF Rest of Central & Eastern Europe,1993,
+DF Rest of Central & Eastern Europe,1994,
+DF Rest of Central & Eastern Europe,1995,
+DF Rest of Central & Eastern Europe,1996,
+DF Rest of Central & Eastern Europe,1997,
+DF Rest of Central & Eastern Europe,1998,
+DF Rest of Central & Eastern Europe,1999,
+DF Rest of Central & Eastern Europe,2000,
+DF Rest of Central & Eastern Europe,2001,850
+DF Rest of Central & Eastern Europe,2002,575
+DF Rest of Central & Eastern Europe,2003,440
+DF Rest of Central & Eastern Europe,2004,450
+DF Rest of Central & Eastern Europe,2005,475
+DF Rest of Central & Eastern Europe,2006,525
+DF Rest of Central & Eastern Europe,2007,525
+DF Rest of Central & Eastern Europe,2008,850
+DF Rest of Central & Eastern Europe,2009,825
+DF Rest of Central & Eastern Europe,2010,1250
+DF Rest of Central & Eastern Europe,2011,825
+DF Rest of Central & Eastern Europe,2012,1050
+DF Rest of Central & Eastern Europe,2013,855
+DF Rest of Central & Eastern Europe,2014,975
+DF Rest of Central & Eastern Europe,2015,1250
+DF Rest of Central & Eastern Europe,2016,1300
+DF Belgium/Luxembourg,1990,
+DF Belgium/Luxembourg,1991,
+DF Belgium/Luxembourg,1992,
+DF Belgium/Luxembourg,1993,
+DF Belgium/Luxembourg,1994,1950
+DF Belgium/Luxembourg,1995,1700
+DF Belgium/Luxembourg,1996,1750
+DF Belgium/Luxembourg,1997,1725
+DF Belgium/Luxembourg,1998,1400
+DF Belgium/Luxembourg,1999,900
+DF Belgium/Luxembourg,2000,425
+DF Belgium/Luxembourg,2001,200
+DF Belgium/Luxembourg,2002,690
+DF Belgium/Luxembourg,2003,425
+DF Belgium/Luxembourg,2004,300
+DF Belgium/Luxembourg,2005,225
+DF Belgium/Luxembourg,2006,475
+DF Belgium/Luxembourg,2007,400
+DF Belgium/Luxembourg,2008,375
+DF Belgium/Luxembourg,2009,425
+DF Belgium/Luxembourg,2010,225
+DF Belgium/Luxembourg,2011,275
+DF Belgium/Luxembourg,2012,460
+DF Belgium/Luxembourg,2013,1050
+DF Belgium/Luxembourg,2014,1575
+DF Belgium/Luxembourg,2015,1210
+DF Belgium/Luxembourg,2016,1295
+Switzerland,1990,0
+Switzerland,1991,0
+Switzerland,1992,0
+Switzerland,1993,0
+Switzerland,1994,0
+Switzerland,1995,0
+Switzerland,1996,0
+Switzerland,1997,0
+Switzerland,1998,0
+Switzerland,1999,50
+Switzerland,2000,50
+Switzerland,2001,50
+Switzerland,2002,200
+Switzerland,2003,250
+Switzerland,2004,250
+Switzerland,2005,250
+Switzerland,2006,500
+Switzerland,2007,500
+Switzerland,2008,500
+Switzerland,2009,700
+Switzerland,2010,1050
+Switzerland,2011,1050
+Switzerland,2012,650
+Switzerland,2013,1150
+Switzerland,2014,1300
+Switzerland,2015,1250
+Switzerland,2016,1250
+Italy,1990,0
+Italy,1991,0
+Italy,1992,0
+Italy,1993,0
+Italy,1994,500
+Italy,1995,1000
+Italy,1996,500
+Italy,1997,1000
+Italy,1998,1000
+Italy,1999,1250
+Italy,2000,1500
+Italy,2001,2250
+Italy,2002,3000
+Italy,2003,3250
+Italy,2004,3000
+Italy,2005,3000
+Italy,2006,2000
+Italy,2007,2000
+Italy,2008,500
+Italy,2009,250
+Italy,2010,250
+Italy,2011,500
+Italy,2012,750
+Italy,2013,700
+Italy,2014,950
+Italy,2015,1200
+Italy,2016,1250
+Denmark,1990,0
+Denmark,1991,0
+Denmark,1992,0
+Denmark,1993,0
+Denmark,1994,0
+Denmark,1995,0
+Denmark,1996,0
+Denmark,1997,0
+Denmark,1998,250
+Denmark,1999,300
+Denmark,2000,250
+Denmark,2001,200
+Denmark,2002,200
+Denmark,2003,200
+Denmark,2004,200
+Denmark,2005,250
+Denmark,2006,250
+Denmark,2007,250
+Denmark,2008,200
+Denmark,2009,200
+Denmark,2010,200
+Denmark,2011,500
+Denmark,2012,750
+Denmark,2013,350
+Denmark,2014,250
+Denmark,2015,440
+Denmark,2016,1150
+DF Portugal,1990,
+DF Portugal,1991,
+DF Portugal,1992,
+DF Portugal,1993,
+DF Portugal,1994,
+DF Portugal,1995,
+DF Portugal,1996,
+DF Portugal,1997,
+DF Portugal,1998,
+DF Portugal,1999,
+DF Portugal,2000,200
+DF Portugal,2001,200
+DF Portugal,2002,175
+DF Portugal,2003,115
+DF Portugal,2004,100
+DF Portugal,2005,40
+DF Portugal,2006,80
+DF Portugal,2007,325
+DF Portugal,2008,275
+DF Portugal,2009,275
+DF Portugal,2010,275
+DF Portugal,2011,450
+DF Portugal,2012,300
+DF Portugal,2013,440
+DF Portugal,2014,885
+DF Portugal,2015,865
+DF Portugal,2016,1150
+DF Ukraine,1990,
+DF Ukraine,1991,
+DF Ukraine,1992,
+DF Ukraine,1993,
+DF Ukraine,1994,
+DF Ukraine,1995,
+DF Ukraine,1996,
+DF Ukraine,1997,
+DF Ukraine,1998,
+DF Ukraine,1999,
+DF Ukraine,2000,
+DF Ukraine,2001,
+DF Ukraine,2002,
+DF Ukraine,2003,
+DF Ukraine,2004,
+DF Ukraine,2005,
+DF Ukraine,2006,
+DF Ukraine,2007,
+DF Ukraine,2008,
+DF Ukraine,2009,
+DF Ukraine,2010,
+DF Ukraine,2011,
+DF Ukraine,2012,25
+DF Ukraine,2013,750
+DF Ukraine,2014,500
+DF Ukraine,2015,740
+DF Ukraine,2016,1075
+DF Israel,1990,
+DF Israel,1991,
+DF Israel,1992,
+DF Israel,1993,
+DF Israel,1994,
+DF Israel,1995,
+DF Israel,1996,
+DF Israel,1997,
+DF Israel,1998,
+DF Israel,1999,
+DF Israel,2000,750
+DF Israel,2001,800
+DF Israel,2002,990
+DF Israel,2003,735
+DF Israel,2004,735
+DF Israel,2005,725
+DF Israel,2006,800
+DF Israel,2007,550
+DF Israel,2008,500
+DF Israel,2009,450
+DF Israel,2010,600
+DF Israel,2011,650
+DF Israel,2012,1625
+DF Israel,2013,1800
+DF Israel,2014,1050
+DF Israel,2015,1050
+DF Israel,2016,1050
+DF Rest of CIS,1990,
+DF Rest of CIS,1991,
+DF Rest of CIS,1992,
+DF Rest of CIS,1993,
+DF Rest of CIS,1994,
+DF Rest of CIS,1995,
+DF Rest of CIS,1996,
+DF Rest of CIS,1997,
+DF Rest of CIS,1998,
+DF Rest of CIS,1999,
+DF Rest of CIS,2000,
+DF Rest of CIS,2001,
+DF Rest of CIS,2002,250
+DF Rest of CIS,2003,100
+DF Rest of CIS,2004,100
+DF Rest of CIS,2005,100
+DF Rest of CIS,2006,100
+DF Rest of CIS,2007,100
+DF Rest of CIS,2008,125
+DF Rest of CIS,2009,150
+DF Rest of CIS,2010,225
+DF Rest of CIS,2011,500
+DF Rest of CIS,2012,1400
+DF Rest of CIS,2013,850
+DF Rest of CIS,2014,1200
+DF Rest of CIS,2015,1375
+DF Rest of CIS,2016,950
+DF Italy,1990,
+DF Italy,1991,
+DF Italy,1992,
+DF Italy,1993,
+DF Italy,1994,500
+DF Italy,1995,450
+DF Italy,1996,475
+DF Italy,1997,530
+DF Italy,1998,485
+DF Italy,1999,390
+DF Italy,2000,150
+DF Italy,2001,250
+DF Italy,2002,425
+DF Italy,2003,150
+DF Italy,2004,125
+DF Italy,2005,200
+DF Italy,2006,300
+DF Italy,2007,525
+DF Italy,2008,650
+DF Italy,2009,500
+DF Italy,2010,425
+DF Italy,2011,565
+DF Italy,2012,800
+DF Italy,2013,1075
+DF Italy,2014,500
+DF Italy,2015,675
+DF Italy,2016,925
+DF New Zealand,1990,
+DF New Zealand,1991,
+DF New Zealand,1992,
+DF New Zealand,1993,
+DF New Zealand,1994,
+DF New Zealand,1995,
+DF New Zealand,1996,
+DF New Zealand,1997,
+DF New Zealand,1998,
+DF New Zealand,1999,
+DF New Zealand,2000,325
+DF New Zealand,2001,475
+DF New Zealand,2002,425
+DF New Zealand,2003,400
+DF New Zealand,2004,300
+DF New Zealand,2005,275
+DF New Zealand,2006,275
+DF New Zealand,2007,375
+DF New Zealand,2008,350
+DF New Zealand,2009,525
+DF New Zealand,2010,775
+DF New Zealand,2011,550
+DF New Zealand,2012,1125
+DF New Zealand,2013,585
+DF New Zealand,2014,515
+DF New Zealand,2015,450
+DF New Zealand,2016,925
+DF Austria,1990,
+DF Austria,1991,
+DF Austria,1992,
+DF Austria,1993,
+DF Austria,1994,
+DF Austria,1995,
+DF Austria,1996,
+DF Austria,1997,
+DF Austria,1998,
+DF Austria,1999,
+DF Austria,2000,200
+DF Austria,2001,275
+DF Austria,2002,200
+DF Austria,2003,175
+DF Austria,2004,175
+DF Austria,2005,125
+DF Austria,2006,250
+DF Austria,2007,300
+DF Austria,2008,275
+DF Austria,2009,250
+DF Austria,2010,250
+DF Austria,2011,200
+DF Austria,2012,285
+DF Austria,2013,350
+DF Austria,2014,575
+DF Austria,2015,565
+DF Austria,2016,825
+DF Baltics - (All Countries),1990,
+DF Baltics - (All Countries),1991,
+DF Baltics - (All Countries),1992,
+DF Baltics - (All Countries),1993,
+DF Baltics - (All Countries),1994,
+DF Baltics - (All Countries),1995,
+DF Baltics - (All Countries),1996,
+DF Baltics - (All Countries),1997,
+DF Baltics - (All Countries),1998,
+DF Baltics - (All Countries),1999,
+DF Baltics - (All Countries),2000,
+DF Baltics - (All Countries),2001,465
+DF Baltics - (All Countries),2002,240
+DF Baltics - (All Countries),2003,125
+DF Baltics - (All Countries),2004,45
+DF Baltics - (All Countries),2005,45
+DF Baltics - (All Countries),2006,40
+DF Baltics - (All Countries),2007,30
+DF Baltics - (All Countries),2008,75
+DF Baltics - (All Countries),2009,100
+DF Baltics - (All Countries),2010,275
+DF Baltics - (All Countries),2011,475
+DF Baltics - (All Countries),2012,825
+DF Baltics - (All Countries),2013,925
+DF Baltics - (All Countries),2014,775
+DF Baltics - (All Countries),2015,775
+DF Baltics - (All Countries),2016,810
+Others,1990,7300
+Others,1991,10350
+Others,1992,10700
+Others,1993,11560
+Others,1994,10400
+Others,1995,12380
+Others,1996,15375
+Others,1997,17200
+Others,1998,15175
+Others,1999,14825
+Others,2000,9125
+Others,2001,9020
+Others,2002,10780
+Others,2003,8545
+Others,2004,6645
+Others,2005,8055
+Others,2006,9305
+Others,2007,9235
+Others,2008,11625
+Others,2009,10090
+Others,2010,10850
+Others,2011,13260
+Others,2012,14085
+Others,2013,11365
+Others,2014,11615
+Others,2015,11240
+Others,2016,13580
+United States,1990,3500
+United States,1991,2750
+United States,1992,7500
+United States,1993,8000
+United States,1994,8500
+United States,1995,8000
+United States,1996,8000
+United States,1997,8000
+United States,1998,7000
+United States,1999,7200
+United States,2000,7900
+United States,2001,8400
+United States,2002,10400
+United States,2003,12300
+United States,2004,12400
+United States,2005,14200
+United States,2006,14500
+United States,2007,16750
+United States,2008,19750
+United States,2009,20000
+United States,2010,32250
+United States,2011,38250
+United States,2012,45250
+United States,2013,44750
+United States,2014,51500
+United States,2015,43250
+United States,2016,45505
+Germany,1990,
+Germany,1991,
+Germany,1992,
+Germany,1993,0
+Germany,1994,250
+Germany,1995,250
+Germany,1996,250
+Germany,1997,150
+Germany,1998,100
+Germany,1999,100
+Germany,2000,100
+Germany,2001,100
+Germany,2002,100
+Germany,2003,100
+Germany,2004,100
+Germany,2005,100
+Germany,2006,100
+Germany,2007,100
+Germany,2008,100
+Germany,2009,100
+Germany,2010,150
+Germany,2011,150
+Germany,2012,150
+Germany,2013,400
+Germany,2014,500
+Germany,2015,1150
+Germany,2016,3500
+DF British Isles (Inc. Ireland),1990,
+DF British Isles (Inc. Ireland),1991,
+DF British Isles (Inc. Ireland),1992,550
+DF British Isles (Inc. Ireland),1993,1250
+DF British Isles (Inc. Ireland),1994,1450
+DF British Isles (Inc. Ireland),1995,1050
+DF British Isles (Inc. Ireland),1996,950
+DF British Isles (Inc. Ireland),1997,800
+DF British Isles (Inc. Ireland),1998,1250
+DF British Isles (Inc. Ireland),1999,650
+DF British Isles (Inc. Ireland),2000,575
+DF British Isles (Inc. Ireland),2001,625
+DF British Isles (Inc. Ireland),2002,525
+DF British Isles (Inc. Ireland),2003,775
+DF British Isles (Inc. Ireland),2004,700
+DF British Isles (Inc. Ireland),2005,750
+DF British Isles (Inc. Ireland),2006,750
+DF British Isles (Inc. Ireland),2007,800
+DF British Isles (Inc. Ireland),2008,750
+DF British Isles (Inc. Ireland),2009,500
+DF British Isles (Inc. Ireland),2010,600
+DF British Isles (Inc. Ireland),2011,400
+DF British Isles (Inc. Ireland),2012,2475
+DF British Isles (Inc. Ireland),2013,3200
+DF British Isles (Inc. Ireland),2014,2235
+DF British Isles (Inc. Ireland),2015,2280
+DF British Isles (Inc. Ireland),2016,3280
+France,1990,
+France,1991,
+France,1992,
+France,1993,
+France,1994,
+France,1995,
+France,1996,
+France,1997,
+France,1998,
+France,1999,
+France,2000,
+France,2001,
+France,2002,
+France,2003,
+France,2004,
+France,2005,
+France,2006,
+France,2007,
+France,2008,
+France,2009,
+France,2010,
+France,2011,2000
+France,2012,4000
+France,2013,4000
+France,2014,3750
+France,2015,2000
+France,2016,2750
+Ireland,1990,
+Ireland,1991,
+Ireland,1992,
+Ireland,1993,
+Ireland,1994,
+Ireland,1995,500
+Ireland,1996,600
+Ireland,1997,600
+Ireland,1998,500
+Ireland,1999,500
+Ireland,2000,500
+Ireland,2001,750
+Ireland,2002,850
+Ireland,2003,700
+Ireland,2004,750
+Ireland,2005,1450
+Ireland,2006,1650
+Ireland,2007,2400
+Ireland,2008,1700
+Ireland,2009,1500
+Ireland,2010,1500
+Ireland,2011,2000
+Ireland,2012,1250
+Ireland,2013,1250
+Ireland,2014,1250
+Ireland,2015,1750
+Ireland,2016,1750
+Canada,1990,
+Canada,1991,
+Canada,1992,
+Canada,1993,
+Canada,1994,
+Canada,1995,
+Canada,1996,
+Canada,1997,
+Canada,1998,
+Canada,1999,
+Canada,2000,
+Canada,2001,
+Canada,2002,
+Canada,2003,
+Canada,2004,
+Canada,2005,
+Canada,2006,
+Canada,2007,250
+Canada,2008,250
+Canada,2009,250
+Canada,2010,350
+Canada,2011,500
+Canada,2012,600
+Canada,2013,700
+Canada,2014,500
+Canada,2015,800
+Canada,2016,1200
+United Kingdom,1990,
+United Kingdom,1991,
+United Kingdom,1992,
+United Kingdom,1993,
+United Kingdom,1994,
+United Kingdom,1995,
+United Kingdom,1996,
+United Kingdom,1997,
+United Kingdom,1998,
+United Kingdom,1999,
+United Kingdom,2000,
+United Kingdom,2001,
+United Kingdom,2002,
+United Kingdom,2003,
+United Kingdom,2004,
+United Kingdom,2005,
+United Kingdom,2006,
+United Kingdom,2007,
+United Kingdom,2008,
+United Kingdom,2009,
+United Kingdom,2010,
+United Kingdom,2011,
+United Kingdom,2012,100
+United Kingdom,2013,250
+United Kingdom,2014,300
+United Kingdom,2015,300
+United Kingdom,2016,1070
+South Africa,1990,
+South Africa,1991,
+South Africa,1992,
+South Africa,1993,
+South Africa,1994,
+South Africa,1995,
+South Africa,1996,
+South Africa,1997,
+South Africa,1998,
+South Africa,1999,
+South Africa,2000,
+South Africa,2001,80
+South Africa,2002,100
+South Africa,2003,100
+South Africa,2004,0
+South Africa,2005,
+South Africa,2006,
+South Africa,2007,
+South Africa,2008,
+South Africa,2009,550
+South Africa,2010,550
+South Africa,2011,620
+South Africa,2012,600
+South Africa,2013,640
+South Africa,2014,750
+South Africa,2015,930
+South Africa,2016,940
+Austria,1990,0
+Austria,1991,0
+Austria,1992,0
+Austria,1993,0
+Austria,1994,0
+Austria,1995,0
+Austria,1996,0
+Austria,1997,0
+Austria,1998,0
+Austria,1999,0
+Austria,2000,0
+Austria,2001,0
+Austria,2002,0
+Austria,2003,
+Austria,2004,
+Austria,2005,
+Austria,2006,10
+Austria,2007,0
+Austria,2008,500
+Austria,2009,500
+Austria,2010,620
+Austria,2011,570
+Austria,2012,500
+Austria,2013,600
+Austria,2014,600
+Austria,2015,670
+Austria,2016,750
+Russia,1990,
+Russia,1991,
+Russia,1992,
+Russia,1993,
+Russia,1994,
+Russia,1995,
+Russia,1996,
+Russia,1997,
+Russia,1998,
+Russia,1999,
+Russia,2000,
+Russia,2001,
+Russia,2002,
+Russia,2003,
+Russia,2004,
+Russia,2005,
+Russia,2006,
+Russia,2007,
+Russia,2008,
+Russia,2009,
+Russia,2010,
+Russia,2011,900
+Russia,2012,800
+Russia,2013,400
+Russia,2014,300
+Russia,2015,300
+Russia,2016,500
+Switzerland,1990,
+Switzerland,1991,
+Switzerland,1992,
+Switzerland,1993,
+Switzerland,1994,
+Switzerland,1995,
+Switzerland,1996,
+Switzerland,1997,
+Switzerland,1998,
+Switzerland,1999,
+Switzerland,2000,
+Switzerland,2001,
+Switzerland,2002,
+Switzerland,2003,
+Switzerland,2004,
+Switzerland,2005,
+Switzerland,2006,
+Switzerland,2007,
+Switzerland,2008,
+Switzerland,2009,
+Switzerland,2010,
+Switzerland,2011,
+Switzerland,2012,
+Switzerland,2013,
+Switzerland,2014,
+Switzerland,2015,
+Switzerland,2016,400
+Argentina,1990,
+Argentina,1991,
+Argentina,1992,
+Argentina,1993,
+Argentina,1994,
+Argentina,1995,
+Argentina,1996,
+Argentina,1997,
+Argentina,1998,
+Argentina,1999,
+Argentina,2000,
+Argentina,2001,
+Argentina,2002,
+Argentina,2003,
+Argentina,2004,
+Argentina,2005,
+Argentina,2006,
+Argentina,2007,
+Argentina,2008,
+Argentina,2009,
+Argentina,2010,
+Argentina,2011,
+Argentina,2012,50
+Argentina,2013,100
+Argentina,2014,150
+Argentina,2015,200
+Argentina,2016,200
+Denmark,1990,
+Denmark,1991,
+Denmark,1992,
+Denmark,1993,
+Denmark,1994,
+Denmark,1995,
+Denmark,1996,
+Denmark,1997,
+Denmark,1998,
+Denmark,1999,
+Denmark,2000,
+Denmark,2001,
+Denmark,2002,
+Denmark,2003,
+Denmark,2004,
+Denmark,2005,
+Denmark,2006,
+Denmark,2007,100
+Denmark,2008,0
+Denmark,2009,50
+Denmark,2010,50
+Denmark,2011,150
+Denmark,2012,330
+Denmark,2013,100
+Denmark,2014,20
+Denmark,2015,60
+Denmark,2016,100
+Japan,1990,
+Japan,1991,
+Japan,1992,
+Japan,1993,
+Japan,1994,
+Japan,1995,
+Japan,1996,
+Japan,1997,
+Japan,1998,
+Japan,1999,
+Japan,2000,
+Japan,2001,
+Japan,2002,
+Japan,2003,
+Japan,2004,50
+Japan,2005,40
+Japan,2006,50
+Japan,2007,50
+Japan,2008,50
+Japan,2009,50
+Japan,2010,50
+Japan,2011,50
+Japan,2012,50
+Japan,2013,100
+Japan,2014,100
+Japan,2015,100
+Japan,2016,100
+DF US/Canada,1990,
+DF US/Canada,1991,
+DF US/Canada,1992,
+DF US/Canada,1993,
+DF US/Canada,1994,50
+DF US/Canada,1995,150
+DF US/Canada,1996,225
+DF US/Canada,1997,250
+DF US/Canada,1998,150
+DF US/Canada,1999,150
+DF US/Canada,2000,50
+DF US/Canada,2001,25
+DF US/Canada,2002,25
+DF US/Canada,2003,25
+DF US/Canada,2004,50
+DF US/Canada,2005,75
+DF US/Canada,2006,75
+DF US/Canada,2007,25
+DF US/Canada,2008,25
+DF US/Canada,2009,
+DF US/Canada,2010,
+DF US/Canada,2011,50
+DF US/Canada,2012,25
+DF US/Canada,2013,40
+DF US/Canada,2014,
+DF US/Canada,2015,50
+DF US/Canada,2016,75
+Mexico,1990,
+Mexico,1991,
+Mexico,1992,
+Mexico,1993,
+Mexico,1994,
+Mexico,1995,
+Mexico,1996,
+Mexico,1997,
+Mexico,1998,
+Mexico,1999,
+Mexico,2000,
+Mexico,2001,
+Mexico,2002,
+Mexico,2003,
+Mexico,2004,
+Mexico,2005,
+Mexico,2006,
+Mexico,2007,
+Mexico,2008,
+Mexico,2009,
+Mexico,2010,
+Mexico,2011,
+Mexico,2012,
+Mexico,2013,
+Mexico,2014,
+Mexico,2015,
+Mexico,2016,60
+Hungary,1990,
+Hungary,1991,
+Hungary,1992,
+Hungary,1993,
+Hungary,1994,
+Hungary,1995,
+Hungary,1996,
+Hungary,1997,
+Hungary,1998,
+Hungary,1999,
+Hungary,2000,
+Hungary,2001,
+Hungary,2002,
+Hungary,2003,
+Hungary,2004,
+Hungary,2005,
+Hungary,2006,
+Hungary,2007,
+Hungary,2008,
+Hungary,2009,
+Hungary,2010,
+Hungary,2011,
+Hungary,2012,
+Hungary,2013,
+Hungary,2014,50
+Hungary,2015,50
+Hungary,2016,50
+Netherlands,1990,
+Netherlands,1991,
+Netherlands,1992,
+Netherlands,1993,
+Netherlands,1994,
+Netherlands,1995,
+Netherlands,1996,
+Netherlands,1997,
+Netherlands,1998,
+Netherlands,1999,
+Netherlands,2000,
+Netherlands,2001,
+Netherlands,2002,
+Netherlands,2003,
+Netherlands,2004,
+Netherlands,2005,
+Netherlands,2006,
+Netherlands,2007,
+Netherlands,2008,70
+Netherlands,2009,70
+Netherlands,2010,100
+Netherlands,2011,100
+Netherlands,2012,100
+Netherlands,2013,150
+Netherlands,2014,250
+Netherlands,2015,50
+Netherlands,2016,50
+Italy,1990,
+Italy,1991,
+Italy,1992,
+Italy,1993,
+Italy,1994,
+Italy,1995,
+Italy,1996,
+Italy,1997,
+Italy,1998,
+Italy,1999,
+Italy,2000,
+Italy,2001,
+Italy,2002,
+Italy,2003,
+Italy,2004,
+Italy,2005,
+Italy,2006,0
+Italy,2007,0
+Italy,2008,0
+Italy,2009,0
+Italy,2010,0
+Italy,2011,0
+Italy,2012,0
+Italy,2013,50
+Italy,2014,50
+Italy,2015,50
+Italy,2016,50
+Bulgaria,1990,
+Bulgaria,1991,
+Bulgaria,1992,
+Bulgaria,1993,
+Bulgaria,1994,
+Bulgaria,1995,
+Bulgaria,1996,
+Bulgaria,1997,
+Bulgaria,1998,
+Bulgaria,1999,
+Bulgaria,2000,
+Bulgaria,2001,
+Bulgaria,2002,
+Bulgaria,2003,
+Bulgaria,2004,
+Bulgaria,2005,
+Bulgaria,2006,
+Bulgaria,2007,
+Bulgaria,2008,
+Bulgaria,2009,50
+Bulgaria,2010,50
+Bulgaria,2011,100
+Bulgaria,2012,100
+Bulgaria,2013,100
+Bulgaria,2014,100
+Bulgaria,2015,100
+Bulgaria,2016,40
+DF Nordic Countries - (All Countries),1990,
+DF Nordic Countries - (All Countries),1991,
+DF Nordic Countries - (All Countries),1992,
+DF Nordic Countries - (All Countries),1993,
+DF Nordic Countries - (All Countries),1994,50
+DF Nordic Countries - (All Countries),1995,50
+DF Nordic Countries - (All Countries),1996,25
+DF Nordic Countries - (All Countries),1997,25
+DF Nordic Countries - (All Countries),1998,25
+DF Nordic Countries - (All Countries),1999,20
+DF Nordic Countries - (All Countries),2000,15
+DF Nordic Countries - (All Countries),2001,300
+DF Nordic Countries - (All Countries),2002,250
+DF Nordic Countries - (All Countries),2003,175
+DF Nordic Countries - (All Countries),2004,150
+DF Nordic Countries - (All Countries),2005,125
+DF Nordic Countries - (All Countries),2006,50
+DF Nordic Countries - (All Countries),2007,50
+DF Nordic Countries - (All Countries),2008,50
+DF Nordic Countries - (All Countries),2009,
+DF Nordic Countries - (All Countries),2010,
+DF Nordic Countries - (All Countries),2011,5
+DF Nordic Countries - (All Countries),2012,
+DF Nordic Countries - (All Countries),2013,35
+DF Nordic Countries - (All Countries),2014,40
+DF Nordic Countries - (All Countries),2015,40
+DF Nordic Countries - (All Countries),2016,40
+DF China,1990,
+DF China,1991,
+DF China,1992,
+DF China,1993,
+DF China,1994,
+DF China,1995,
+DF China,1996,
+DF China,1997,
+DF China,1998,
+DF China,1999,
+DF China,2000,
+DF China,2001,
+DF China,2002,
+DF China,2003,
+DF China,2004,
+DF China,2005,
+DF China,2006,
+DF China,2007,
+DF China,2008,
+DF China,2009,
+DF China,2010,
+DF China,2011,25
+DF China,2012,40
+DF China,2013,30
+DF China,2014,35
+DF China,2015,20
+DF China,2016,35
+DF Gulf - (All Countries),1990,
+DF Gulf - (All Countries),1991,
+DF Gulf - (All Countries),1992,
+DF Gulf - (All Countries),1993,
+DF Gulf - (All Countries),1994,
+DF Gulf - (All Countries),1995,
+DF Gulf - (All Countries),1996,
+DF Gulf - (All Countries),1997,
+DF Gulf - (All Countries),1998,
+DF Gulf - (All Countries),1999,
+DF Gulf - (All Countries),2000,
+DF Gulf - (All Countries),2001,
+DF Gulf - (All Countries),2002,
+DF Gulf - (All Countries),2003,
+DF Gulf - (All Countries),2004,
+DF Gulf - (All Countries),2005,
+DF Gulf - (All Countries),2006,
+DF Gulf - (All Countries),2007,
+DF Gulf - (All Countries),2008,
+DF Gulf - (All Countries),2009,
+DF Gulf - (All Countries),2010,
+DF Gulf - (All Countries),2011,25
+DF Gulf - (All Countries),2012,60
+DF Gulf - (All Countries),2013,60
+DF Gulf - (All Countries),2014,15
+DF Gulf - (All Countries),2015,30
+DF Gulf - (All Countries),2016,30
+DF France,1990,
+DF France,1991,
+DF France,1992,
+DF France,1993,
+DF France,1994,
+DF France,1995,50
+DF France,1996,125
+DF France,1997,125
+DF France,1998,50
+DF France,1999,20
+DF France,2000,15
+DF France,2001,10
+DF France,2002,15
+DF France,2003,15
+DF France,2004,10
+DF France,2005,15
+DF France,2006,10
+DF France,2007,10
+DF France,2008,10
+DF France,2009,
+DF France,2010,
+DF France,2011,
+DF France,2012,25
+DF France,2013,25
+DF France,2014,15
+DF France,2015,15
+DF France,2016,15
+DF Netherlands,1990,
+DF Netherlands,1991,
+DF Netherlands,1992,
+DF Netherlands,1993,
+DF Netherlands,1994,50
+DF Netherlands,1995,25
+DF Netherlands,1996,25
+DF Netherlands,1997,25
+DF Netherlands,1998,25
+DF Netherlands,1999,10
+DF Netherlands,2000,
+DF Netherlands,2001,
+DF Netherlands,2002,
+DF Netherlands,2003,
+DF Netherlands,2004,
+DF Netherlands,2005,
+DF Netherlands,2006,
+DF Netherlands,2007,
+DF Netherlands,2008,
+DF Netherlands,2009,25
+DF Netherlands,2010,
+DF Netherlands,2011,35
+DF Netherlands,2012,25
+DF Netherlands,2013,15
+DF Netherlands,2014,15
+DF Netherlands,2015,15
+DF Netherlands,2016,15
+Finland,1990,
+Finland,1991,
+Finland,1992,
+Finland,1993,
+Finland,1994,
+Finland,1995,
+Finland,1996,
+Finland,1997,
+Finland,1998,
+Finland,1999,
+Finland,2000,
+Finland,2001,
+Finland,2002,
+Finland,2003,
+Finland,2004,
+Finland,2005,
+Finland,2006,
+Finland,2007,
+Finland,2008,
+Finland,2009,
+Finland,2010,
+Finland,2011,
+Finland,2012,
+Finland,2013,
+Finland,2014,
+Finland,2015,100
+Finland,2016,0
+Latvia,1990,
+Latvia,1991,
+Latvia,1992,
+Latvia,1993,
+Latvia,1994,
+Latvia,1995,
+Latvia,1996,
+Latvia,1997,
+Latvia,1998,
+Latvia,1999,
+Latvia,2000,
+Latvia,2001,
+Latvia,2002,
+Latvia,2003,
+Latvia,2004,
+Latvia,2005,
+Latvia,2006,
+Latvia,2007,
+Latvia,2008,
+Latvia,2009,
+Latvia,2010,
+Latvia,2011,
+Latvia,2012,
+Latvia,2013,10
+Latvia,2014,10
+Latvia,2015,0
+Latvia,2016,0
+Portugal,1990,
+Portugal,1991,
+Portugal,1992,
+Portugal,1993,
+Portugal,1994,
+Portugal,1995,
+Portugal,1996,
+Portugal,1997,
+Portugal,1998,
+Portugal,1999,
+Portugal,2000,
+Portugal,2001,
+Portugal,2002,
+Portugal,2003,
+Portugal,2004,
+Portugal,2005,30
+Portugal,2006,
+Portugal,2007,
+Portugal,2008,0
+Portugal,2009,50
+Portugal,2010,100
+Portugal,2011,50
+Portugal,2012,0
+Portugal,2013,0
+Portugal,2014,50
+Portugal,2015,0
+Portugal,2016,0
+DF Baltics - (All Countries),1990,
+DF Baltics - (All Countries),1991,
+DF Baltics - (All Countries),1992,
+DF Baltics - (All Countries),1993,
+DF Baltics - (All Countries),1994,
+DF Baltics - (All Countries),1995,
+DF Baltics - (All Countries),1996,
+DF Baltics - (All Countries),1997,
+DF Baltics - (All Countries),1998,
+DF Baltics - (All Countries),1999,
+DF Baltics - (All Countries),2000,
+DF Baltics - (All Countries),2001,35
+DF Baltics - (All Countries),2002,10
+DF Baltics - (All Countries),2003,25
+DF Baltics - (All Countries),2004,5
+DF Baltics - (All Countries),2005,5
+DF Baltics - (All Countries),2006,10
+DF Baltics - (All Countries),2007,10
+DF Baltics - (All Countries),2008,10
+DF Baltics - (All Countries),2009,
+DF Baltics - (All Countries),2010,
+DF Baltics - (All Countries),2011,
+DF Baltics - (All Countries),2012,
+DF Baltics - (All Countries),2013,
+DF Baltics - (All Countries),2014,
+DF Baltics - (All Countries),2015,
+DF Baltics - (All Countries),2016,
+DF Belgium/Luxembourg,1990,
+DF Belgium/Luxembourg,1991,
+DF Belgium/Luxembourg,1992,
+DF Belgium/Luxembourg,1993,
+DF Belgium/Luxembourg,1994,50
+DF Belgium/Luxembourg,1995,50
+DF Belgium/Luxembourg,1996,
+DF Belgium/Luxembourg,1997,25
+DF Belgium/Luxembourg,1998,
+DF Belgium/Luxembourg,1999,
+DF Belgium/Luxembourg,2000,
+DF Belgium/Luxembourg,2001,
+DF Belgium/Luxembourg,2002,10
+DF Belgium/Luxembourg,2003,
+DF Belgium/Luxembourg,2004,
+DF Belgium/Luxembourg,2005,
+DF Belgium/Luxembourg,2006,
+DF Belgium/Luxembourg,2007,
+DF Belgium/Luxembourg,2008,
+DF Belgium/Luxembourg,2009,
+DF Belgium/Luxembourg,2010,
+DF Belgium/Luxembourg,2011,
+DF Belgium/Luxembourg,2012,
+DF Belgium/Luxembourg,2013,
+DF Belgium/Luxembourg,2014,
+DF Belgium/Luxembourg,2015,
+DF Belgium/Luxembourg,2016,
+DF Czech Republic,1990,
+DF Czech Republic,1991,
+DF Czech Republic,1992,
+DF Czech Republic,1993,
+DF Czech Republic,1994,
+DF Czech Republic,1995,
+DF Czech Republic,1996,
+DF Czech Republic,1997,
+DF Czech Republic,1998,
+DF Czech Republic,1999,
+DF Czech Republic,2000,
+DF Czech Republic,2001,
+DF Czech Republic,2002,
+DF Czech Republic,2003,
+DF Czech Republic,2004,
+DF Czech Republic,2005,
+DF Czech Republic,2006,
+DF Czech Republic,2007,
+DF Czech Republic,2008,
+DF Czech Republic,2009,
+DF Czech Republic,2010,
+DF Czech Republic,2011,5
+DF Czech Republic,2012,
+DF Czech Republic,2013,
+DF Czech Republic,2014,
+DF Czech Republic,2015,
+DF Czech Republic,2016,
+DF Germany,1990,
+DF Germany,1991,
+DF Germany,1992,
+DF Germany,1993,
+DF Germany,1994,50
+DF Germany,1995,50
+DF Germany,1996,
+DF Germany,1997,
+DF Germany,1998,
+DF Germany,1999,
+DF Germany,2000,
+DF Germany,2001,
+DF Germany,2002,
+DF Germany,2003,5
+DF Germany,2004,10
+DF Germany,2005,15
+DF Germany,2006,10
+DF Germany,2007,10
+DF Germany,2008,10
+DF Germany,2009,
+DF Germany,2010,
+DF Germany,2011,20
+DF Germany,2012,
+DF Germany,2013,
+DF Germany,2014,
+DF Germany,2015,
+DF Germany,2016,
+DF Hong Kong,1990,
+DF Hong Kong,1991,
+DF Hong Kong,1992,
+DF Hong Kong,1993,
+DF Hong Kong,1994,
+DF Hong Kong,1995,100
+DF Hong Kong,1996,50
+DF Hong Kong,1997,25
+DF Hong Kong,1998,25
+DF Hong Kong,1999,25
+DF Hong Kong,2000,
+DF Hong Kong,2001,
+DF Hong Kong,2002,
+DF Hong Kong,2003,
+DF Hong Kong,2004,
+DF Hong Kong,2005,
+DF Hong Kong,2006,
+DF Hong Kong,2007,
+DF Hong Kong,2008,
+DF Hong Kong,2009,
+DF Hong Kong,2010,
+DF Hong Kong,2011,
+DF Hong Kong,2012,
+DF Hong Kong,2013,
+DF Hong Kong,2014,
+DF Hong Kong,2015,
+DF Hong Kong,2016,
+DF Indian Sub-Continent,1990,
+DF Indian Sub-Continent,1991,
+DF Indian Sub-Continent,1992,
+DF Indian Sub-Continent,1993,
+DF Indian Sub-Continent,1994,
+DF Indian Sub-Continent,1995,
+DF Indian Sub-Continent,1996,
+DF Indian Sub-Continent,1997,
+DF Indian Sub-Continent,1998,
+DF Indian Sub-Continent,1999,
+DF Indian Sub-Continent,2000,
+DF Indian Sub-Continent,2001,
+DF Indian Sub-Continent,2002,
+DF Indian Sub-Continent,2003,
+DF Indian Sub-Continent,2004,
+DF Indian Sub-Continent,2005,
+DF Indian Sub-Continent,2006,
+DF Indian Sub-Continent,2007,
+DF Indian Sub-Continent,2008,
+DF Indian Sub-Continent,2009,
+DF Indian Sub-Continent,2010,
+DF Indian Sub-Continent,2011,
+DF Indian Sub-Continent,2012,20
+DF Indian Sub-Continent,2013,
+DF Indian Sub-Continent,2014,
+DF Indian Sub-Continent,2015,
+DF Indian Sub-Continent,2016,
+DF Indonesia,1990,
+DF Indonesia,1991,
+DF Indonesia,1992,
+DF Indonesia,1993,
+DF Indonesia,1994,
+DF Indonesia,1995,
+DF Indonesia,1996,
+DF Indonesia,1997,
+DF Indonesia,1998,
+DF Indonesia,1999,
+DF Indonesia,2000,
+DF Indonesia,2001,5
+DF Indonesia,2002,5
+DF Indonesia,2003,
+DF Indonesia,2004,
+DF Indonesia,2005,
+DF Indonesia,2006,
+DF Indonesia,2007,
+DF Indonesia,2008,
+DF Indonesia,2009,
+DF Indonesia,2010,
+DF Indonesia,2011,
+DF Indonesia,2012,
+DF Indonesia,2013,
+DF Indonesia,2014,
+DF Indonesia,2015,
+DF Indonesia,2016,
+DF Israel,1990,
+DF Israel,1991,
+DF Israel,1992,
+DF Israel,1993,
+DF Israel,1994,
+DF Israel,1995,
+DF Israel,1996,
+DF Israel,1997,
+DF Israel,1998,
+DF Israel,1999,
+DF Israel,2000,
+DF Israel,2001,
+DF Israel,2002,10
+DF Israel,2003,15
+DF Israel,2004,15
+DF Israel,2005,
+DF Israel,2006,
+DF Israel,2007,
+DF Israel,2008,
+DF Israel,2009,
+DF Israel,2010,
+DF Israel,2011,
+DF Israel,2012,
+DF Israel,2013,
+DF Israel,2014,
+DF Israel,2015,
+DF Israel,2016,
+DF Italy,1990,
+DF Italy,1991,
+DF Italy,1992,
+DF Italy,1993,
+DF Italy,1994,
+DF Italy,1995,50
+DF Italy,1996,25
+DF Italy,1997,20
+DF Italy,1998,15
+DF Italy,1999,10
+DF Italy,2000,
+DF Italy,2001,
+DF Italy,2002,
+DF Italy,2003,
+DF Italy,2004,
+DF Italy,2005,
+DF Italy,2006,
+DF Italy,2007,
+DF Italy,2008,
+DF Italy,2009,
+DF Italy,2010,
+DF Italy,2011,10
+DF Italy,2012,
+DF Italy,2013,
+DF Italy,2014,
+DF Italy,2015,
+DF Italy,2016,
+DF Poland,1990,
+DF Poland,1991,
+DF Poland,1992,
+DF Poland,1993,
+DF Poland,1994,
+DF Poland,1995,
+DF Poland,1996,
+DF Poland,1997,
+DF Poland,1998,
+DF Poland,1999,
+DF Poland,2000,
+DF Poland,2001,
+DF Poland,2002,
+DF Poland,2003,
+DF Poland,2004,
+DF Poland,2005,
+DF Poland,2006,
+DF Poland,2007,
+DF Poland,2008,
+DF Poland,2009,
+DF Poland,2010,
+DF Poland,2011,5
+DF Poland,2012,
+DF Poland,2013,5
+DF Poland,2014,
+DF Poland,2015,
+DF Poland,2016,
+DF Rest of Africa,1990,
+DF Rest of Africa,1991,
+DF Rest of Africa,1992,
+DF Rest of Africa,1993,
+DF Rest of Africa,1994,
+DF Rest of Africa,1995,
+DF Rest of Africa,1996,
+DF Rest of Africa,1997,
+DF Rest of Africa,1998,
+DF Rest of Africa,1999,
+DF Rest of Africa,2000,25
+DF Rest of Africa,2001,25
+DF Rest of Africa,2002,25
+DF Rest of Africa,2003,25
+DF Rest of Africa,2004,25
+DF Rest of Africa,2005,
+DF Rest of Africa,2006,
+DF Rest of Africa,2007,
+DF Rest of Africa,2008,
+DF Rest of Africa,2009,
+DF Rest of Africa,2010,
+DF Rest of Africa,2011,
+DF Rest of Africa,2012,5
+DF Rest of Africa,2013,
+DF Rest of Africa,2014,
+DF Rest of Africa,2015,
+DF Rest of Africa,2016,
+DF Rest of Australasia,1990,
+DF Rest of Australasia,1991,
+DF Rest of Australasia,1992,
+DF Rest of Australasia,1993,
+DF Rest of Australasia,1994,50
+DF Rest of Australasia,1995,50
+DF Rest of Australasia,1996,
+DF Rest of Australasia,1997,
+DF Rest of Australasia,1998,
+DF Rest of Australasia,1999,
+DF Rest of Australasia,2000,
+DF Rest of Australasia,2001,
+DF Rest of Australasia,2002,
+DF Rest of Australasia,2003,
+DF Rest of Australasia,2004,
+DF Rest of Australasia,2005,
+DF Rest of Australasia,2006,
+DF Rest of Australasia,2007,
+DF Rest of Australasia,2008,
+DF Rest of Australasia,2009,5
+DF Rest of Australasia,2010,
+DF Rest of Australasia,2011,
+DF Rest of Australasia,2012,
+DF Rest of Australasia,2013,
+DF Rest of Australasia,2014,
+DF Rest of Australasia,2015,
+DF Rest of Australasia,2016,
+DF Rest of Central & Eastern Europe,1990,
+DF Rest of Central & Eastern Europe,1991,
+DF Rest of Central & Eastern Europe,1992,
+DF Rest of Central & Eastern Europe,1993,
+DF Rest of Central & Eastern Europe,1994,
+DF Rest of Central & Eastern Europe,1995,
+DF Rest of Central & Eastern Europe,1996,
+DF Rest of Central & Eastern Europe,1997,
+DF Rest of Central & Eastern Europe,1998,
+DF Rest of Central & Eastern Europe,1999,
+DF Rest of Central & Eastern Europe,2000,
+DF Rest of Central & Eastern Europe,2001,
+DF Rest of Central & Eastern Europe,2002,
+DF Rest of Central & Eastern Europe,2003,
+DF Rest of Central & Eastern Europe,2004,
+DF Rest of Central & Eastern Europe,2005,
+DF Rest of Central & Eastern Europe,2006,
+DF Rest of Central & Eastern Europe,2007,
+DF Rest of Central & Eastern Europe,2008,
+DF Rest of Central & Eastern Europe,2009,
+DF Rest of Central & Eastern Europe,2010,
+DF Rest of Central & Eastern Europe,2011,
+DF Rest of Central & Eastern Europe,2012,
+DF Rest of Central & Eastern Europe,2013,5
+DF Rest of Central & Eastern Europe,2014,
+DF Rest of Central & Eastern Europe,2015,
+DF Rest of Central & Eastern Europe,2016,
+DF Rest of East Asia,1990,
+DF Rest of East Asia,1991,
+DF Rest of East Asia,1992,
+DF Rest of East Asia,1993,
+DF Rest of East Asia,1994,100
+DF Rest of East Asia,1995,150
+DF Rest of East Asia,1996,100
+DF Rest of East Asia,1997,50
+DF Rest of East Asia,1998,
+DF Rest of East Asia,1999,
+DF Rest of East Asia,2000,
+DF Rest of East Asia,2001,
+DF Rest of East Asia,2002,
+DF Rest of East Asia,2003,
+DF Rest of East Asia,2004,
+DF Rest of East Asia,2005,
+DF Rest of East Asia,2006,
+DF Rest of East Asia,2007,
+DF Rest of East Asia,2008,
+DF Rest of East Asia,2009,
+DF Rest of East Asia,2010,
+DF Rest of East Asia,2011,
+DF Rest of East Asia,2012,
+DF Rest of East Asia,2013,
+DF Rest of East Asia,2014,
+DF Rest of East Asia,2015,
+DF Rest of East Asia,2016,
+DF Rest of Latin America,1990,
+DF Rest of Latin America,1991,
+DF Rest of Latin America,1992,
+DF Rest of Latin America,1993,
+DF Rest of Latin America,1994,
+DF Rest of Latin America,1995,50
+DF Rest of Latin America,1996,25
+DF Rest of Latin America,1997,25
+DF Rest of Latin America,1998,25
+DF Rest of Latin America,1999,25
+DF Rest of Latin America,2000,25
+DF Rest of Latin America,2001,15
+DF Rest of Latin America,2002,10
+DF Rest of Latin America,2003,5
+DF Rest of Latin America,2004,
+DF Rest of Latin America,2005,
+DF Rest of Latin America,2006,
+DF Rest of Latin America,2007,
+DF Rest of Latin America,2008,
+DF Rest of Latin America,2009,
+DF Rest of Latin America,2010,
+DF Rest of Latin America,2011,
+DF Rest of Latin America,2012,
+DF Rest of Latin America,2013,
+DF Rest of Latin America,2014,
+DF Rest of Latin America,2015,
+DF Rest of Latin America,2016,
+DF Rest of Southern Europe,1990,
+DF Rest of Southern Europe,1991,
+DF Rest of Southern Europe,1992,
+DF Rest of Southern Europe,1993,
+DF Rest of Southern Europe,1994,50
+DF Rest of Southern Europe,1995,50
+DF Rest of Southern Europe,1996,50
+DF Rest of Southern Europe,1997,50
+DF Rest of Southern Europe,1998,50
+DF Rest of Southern Europe,1999,25
+DF Rest of Southern Europe,2000,
+DF Rest of Southern Europe,2001,
+DF Rest of Southern Europe,2002,
+DF Rest of Southern Europe,2003,
+DF Rest of Southern Europe,2004,
+DF Rest of Southern Europe,2005,
+DF Rest of Southern Europe,2006,
+DF Rest of Southern Europe,2007,
+DF Rest of Southern Europe,2008,
+DF Rest of Southern Europe,2009,
+DF Rest of Southern Europe,2010,
+DF Rest of Southern Europe,2011,
+DF Rest of Southern Europe,2012,
+DF Rest of Southern Europe,2013,
+DF Rest of Southern Europe,2014,
+DF Rest of Southern Europe,2015,
+DF Rest of Southern Europe,2016,
+DF Rest of World,1990,
+DF Rest of World,1991,
+DF Rest of World,1992,
+DF Rest of World,1993,
+DF Rest of World,1994,50
+DF Rest of World,1995,50
+DF Rest of World,1996,50
+DF Rest of World,1997,50
+DF Rest of World,1998,50
+DF Rest of World,1999,25
+DF Rest of World,2000,
+DF Rest of World,2001,
+DF Rest of World,2002,
+DF Rest of World,2003,
+DF Rest of World,2004,
+DF Rest of World,2005,
+DF Rest of World,2006,
+DF Rest of World,2007,
+DF Rest of World,2008,
+DF Rest of World,2009,
+DF Rest of World,2010,
+DF Rest of World,2011,
+DF Rest of World,2012,
+DF Rest of World,2013,
+DF Rest of World,2014,
+DF Rest of World,2015,
+DF Rest of World,2016,
+DF Russia,1990,
+DF Russia,1991,
+DF Russia,1992,
+DF Russia,1993,
+DF Russia,1994,
+DF Russia,1995,
+DF Russia,1996,
+DF Russia,1997,
+DF Russia,1998,
+DF Russia,1999,
+DF Russia,2000,
+DF Russia,2001,25
+DF Russia,2002,20
+DF Russia,2003,
+DF Russia,2004,
+DF Russia,2005,
+DF Russia,2006,
+DF Russia,2007,
+DF Russia,2008,
+DF Russia,2009,
+DF Russia,2010,
+DF Russia,2011,60
+DF Russia,2012,100
+DF Russia,2013,100
+DF Russia,2014,100
+DF Russia,2015,
+DF Russia,2016,
+DF Singapore,1990,
+DF Singapore,1991,
+DF Singapore,1992,
+DF Singapore,1993,
+DF Singapore,1994,50
+DF Singapore,1995,100
+DF Singapore,1996,100
+DF Singapore,1997,75
+DF Singapore,1998,25
+DF Singapore,1999,25
+DF Singapore,2000,30
+DF Singapore,2001,20
+DF Singapore,2002,15
+DF Singapore,2003,15
+DF Singapore,2004,
+DF Singapore,2005,5
+DF Singapore,2006,
+DF Singapore,2007,
+DF Singapore,2008,
+DF Singapore,2009,
+DF Singapore,2010,
+DF Singapore,2011,
+DF Singapore,2012,
+DF Singapore,2013,
+DF Singapore,2014,
+DF Singapore,2015,
+DF Singapore,2016,
+DF South Korea,1990,
+DF South Korea,1991,
+DF South Korea,1992,
+DF South Korea,1993,
+DF South Korea,1994,
+DF South Korea,1995,250
+DF South Korea,1996,225
+DF South Korea,1997,125
+DF South Korea,1998,
+DF South Korea,1999,180
+DF South Korea,2000,200
+DF South Korea,2001,75
+DF South Korea,2002,75
+DF South Korea,2003,100
+DF South Korea,2004,25
+DF South Korea,2005,25
+DF South Korea,2006,25
+DF South Korea,2007,
+DF South Korea,2008,
+DF South Korea,2009,
+DF South Korea,2010,
+DF South Korea,2011,
+DF South Korea,2012,
+DF South Korea,2013,
+DF South Korea,2014,
+DF South Korea,2015,
+DF South Korea,2016,
+DF Switzerland,1990,
+DF Switzerland,1991,
+DF Switzerland,1992,
+DF Switzerland,1993,
+DF Switzerland,1994,
+DF Switzerland,1995,
+DF Switzerland,1996,
+DF Switzerland,1997,
+DF Switzerland,1998,
+DF Switzerland,1999,
+DF Switzerland,2000,
+DF Switzerland,2001,5
+DF Switzerland,2002,10
+DF Switzerland,2003,5
+DF Switzerland,2004,10
+DF Switzerland,2005,10
+DF Switzerland,2006,
+DF Switzerland,2007,
+DF Switzerland,2008,
+DF Switzerland,2009,
+DF Switzerland,2010,
+DF Switzerland,2011,
+DF Switzerland,2012,
+DF Switzerland,2013,10
+DF Switzerland,2014,10
+DF Switzerland,2015,
+DF Switzerland,2016,
+DF Turkey,1990,
+DF Turkey,1991,
+DF Turkey,1992,
+DF Turkey,1993,
+DF Turkey,1994,
+DF Turkey,1995,
+DF Turkey,1996,
+DF Turkey,1997,
+DF Turkey,1998,
+DF Turkey,1999,
+DF Turkey,2000,
+DF Turkey,2001,
+DF Turkey,2002,
+DF Turkey,2003,
+DF Turkey,2004,
+DF Turkey,2005,
+DF Turkey,2006,
+DF Turkey,2007,
+DF Turkey,2008,
+DF Turkey,2009,
+DF Turkey,2010,
+DF Turkey,2011,5
+DF Turkey,2012,15
+DF Turkey,2013,10
+DF Turkey,2014,10
+DF Turkey,2015,
+DF Turkey,2016,
+DF US Pacific,1990,
+DF US Pacific,1991,
+DF US Pacific,1992,
+DF US Pacific,1993,
+DF US Pacific,1994,50
+DF US Pacific,1995,200
+DF US Pacific,1996,100
+DF US Pacific,1997,50
+DF US Pacific,1998,
+DF US Pacific,1999,
+DF US Pacific,2000,
+DF US Pacific,2001,
+DF US Pacific,2002,
+DF US Pacific,2003,
+DF US Pacific,2004,
+DF US Pacific,2005,
+DF US Pacific,2006,
+DF US Pacific,2007,
+DF US Pacific,2008,
+DF US Pacific,2009,
+DF US Pacific,2010,
+DF US Pacific,2011,
+DF US Pacific,2012,
+DF US Pacific,2013,
+DF US Pacific,2014,
+DF US Pacific,2015,
+DF US Pacific,2016,
