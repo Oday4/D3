@@ -1,0 +1,217 @@
+Country,Year,Value
+United States,1990,243000
+United States,1991,214000
+United States,1992,219500
+United States,1993,225000
+United States,1994,239500
+United States,1995,249000
+United States,1996,259000
+United States,1997,279500
+United States,1998,296750
+United States,1999,322000
+United States,2000,343750
+United States,2001,371250
+United States,2002,398750
+United States,2003,443500
+United States,2004,500250
+United States,2005,572500
+United States,2006,682250
+United States,2007,803000
+United States,2008,975500
+United States,2009,1099250
+United States,2010,1337600
+United States,2011,1652250
+United States,2012,1989750
+United States,2013,2365000
+United States,2014,2463750
+United States,2015,2893250
+United States,2016,3337500
+Ireland,1990,537500
+Ireland,1991,546000
+Ireland,1992,513000
+Ireland,1993,524500
+Ireland,1994,526000
+Ireland,1995,517500
+Ireland,1996,536350
+Ireland,1997,545050
+Ireland,1998,546000
+Ireland,1999,583100
+Ireland,2000,586350
+Ireland,2001,584650
+Ireland,2002,564900
+Ireland,2003,475400
+Ireland,2004,472950
+Ireland,2005,471400
+Ireland,2006,470500
+Ireland,2007,473400
+Ireland,2008,448000
+Ireland,2009,404400
+Ireland,2010,404300
+Ireland,2011,426100
+Ireland,2012,484450
+Ireland,2013,468800
+Ireland,2014,413870
+Ireland,2015,434600
+Ireland,2016,444200
+France,1990,92000
+France,1991,118000
+France,1992,137000
+France,1993,151000
+France,1994,161000
+France,1995,181000
+France,1996,225000
+France,1997,255000
+France,1998,289000
+France,1999,327000
+France,2000,340000
+France,2001,393000
+France,2002,399500
+France,2003,398000
+France,2004,398000
+France,2005,379000
+France,2006,379750
+France,2007,370250
+France,2008,370000
+France,2009,353000
+France,2010,380000
+France,2011,376000
+France,2012,365250
+France,2013,364000
+France,2014,364000
+France,2015,358250
+France,2016,345250
+South Africa,1990,7000
+South Africa,1991,6500
+South Africa,1992,7000
+South Africa,1993,8000
+South Africa,1994,9500
+South Africa,1995,11500
+South Africa,1996,20500
+South Africa,1997,24750
+South Africa,1998,26250
+South Africa,1999,29500
+South Africa,2000,30250
+South Africa,2001,34000
+South Africa,2002,36500
+South Africa,2003,40500
+South Africa,2004,62000
+South Africa,2005,87500
+South Africa,2006,131000
+South Africa,2007,168000
+South Africa,2008,195000
+South Africa,2009,200500
+South Africa,2010,208000
+South Africa,2011,209500
+South Africa,2012,211250
+South Africa,2013,229000
+South Africa,2014,243750
+South Africa,2015,278750
+South Africa,2016,308250
+Russia,1990,
+Russia,1991,750
+Russia,1992,1250
+Russia,1993,2750
+Russia,1994,3500
+Russia,1995,5000
+Russia,1996,6000
+Russia,1997,9000
+Russia,1998,8000
+Russia,1999,6000
+Russia,2000,7500
+Russia,2001,10000
+Russia,2002,12000
+Russia,2003,14000
+Russia,2004,21500
+Russia,2005,37800
+Russia,2006,59250
+Russia,2007,97750
+Russia,2008,136750
+Russia,2009,124650
+Russia,2010,171500
+Russia,2011,292600
+Russia,2012,345200
+Russia,2013,367600
+Russia,2014,427500
+Russia,2015,277700
+Russia,2016,280250
+Germany,1990,80000
+Germany,1991,85000
+Germany,1992,98000
+Germany,1993,89000
+Germany,1994,96500
+Germany,1995,84500
+Germany,1996,91750
+Germany,1997,90000
+Germany,1998,92750
+Germany,1999,99500
+Germany,2000,107100
+Germany,2001,112950
+Germany,2002,113200
+Germany,2003,118400
+Germany,2004,137300
+Germany,2005,135650
+Germany,2006,136550
+Germany,2007,146000
+Germany,2008,168000
+Germany,2009,165300
+Germany,2010,182200
+Germany,2011,224500
+Germany,2012,246750
+Germany,2013,277500
+Germany,2014,293500
+Germany,2015,285500
+Germany,2016,279000
+United Kingdom,1990,110000
+United Kingdom,1991,110000
+United Kingdom,1992,115000
+United Kingdom,1993,125000
+United Kingdom,1994,140500
+United Kingdom,1995,151000
+United Kingdom,1996,149800
+United Kingdom,1997,163000
+United Kingdom,1998,174000
+United Kingdom,1999,185400
+United Kingdom,2000,196300
+United Kingdom,2001,209750
+United Kingdom,2002,233300
+United Kingdom,2003,238950
+United Kingdom,2004,245500
+United Kingdom,2005,253750
+United Kingdom,2006,250000
+United Kingdom,2007,256500
+United Kingdom,2008,266000
+United Kingdom,2009,262000
+United Kingdom,2010,276000
+United Kingdom,2011,246500
+United Kingdom,2012,238750
+United Kingdom,2013,245500
+United Kingdom,2014,249250
+United Kingdom,2015,264250
+United Kingdom,2016,274500
+Czech Republic,1990,
+Czech Republic,1991,
+Czech Republic,1992,
+Czech Republic,1993,500
+Czech Republic,1994,1000
+Czech Republic,1995,2250
+Czech Republic,1996,6250
+Czech Republic,1997,11000
+Czech Republic,1998,18250
+Czech Republic,1999,17750
+Czech Republic,2000,24000
+Czech Republic,2001,28950
+Czech Republic,2002,34000
+Czech Republic,2003,38660
+Czech Republic,2004,50720
+Czech Republic,2005,61480
+Czech Republic,2006,79150
+Czech Republic,2007,101950
+Czech Republic,2008,115950
+Czech Republic,2009,136250
+Czech Republic,2010,115000
+Czech Republic,2011,135000
+Czech Republic,2012,135650
+Czech Republic,2013,154000
+Czech Republic,2014,172500
+Czech Republic,2015,182500
+Czech Republic,2016,197500
